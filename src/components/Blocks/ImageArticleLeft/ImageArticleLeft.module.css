@@ -1,0 +1,30 @@
+.article-image {
+    height: 200px;
+    width: 400px;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    position: relative;
+    float: left;
+    margin-right: 16px;
+    margin-top: 16px;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+.article-image span {
+    z-index: 0;
+    background-color: #024a45;
+    padding: 0px 10px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 100;
+}
+@media only screen and (max-width: 700px) {
+  .article-image {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 18px;
+    margin-top: 18px;
+  }
+}

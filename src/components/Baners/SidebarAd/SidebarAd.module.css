@@ -1,0 +1,18 @@
+.sidebar-ad {
+    height: 200px;
+    width: 100%;
+    background-color: #8a2be245;
+    border-radius: 4px;
+    margin-bottom: 34px;
+    position: relative;
+    overflow: hidden;
+}
+.sidebar-ad span {
+    position: absolute;
+    z-index: 1;
+    background-color: #ffff00d1;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    padding: 4px 0;
+}

@@ -1,0 +1,108 @@
+.title-block {
+    height: 360px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  .title-header {
+    box-sizing: border-box;
+    min-width: 1180px;
+    padding: 40px 0;
+    display: flex;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(4.5px);
+    -webkit-backdrop-filter: blur(4.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+  }
+  .title-header h1 {
+    color: #031d03;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+  .title-menu {
+    padding: 8px;
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+    min-width: 1180px;
+    position: absolute;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.46);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(4.5px);
+    -webkit-backdrop-filter: blur(4.5px);
+    border-radius: 4px 4px 0 0;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+  }
+  .title-menu a {
+    padding: 6px 30px;
+    color: #031d03;
+    border-radius: 4px;
+    background-color: #ffff00ba;
+    box-sizing: border-box;
+    transition: 0.2s ease-in-out;
+  }
+  .title-menu a:hover {
+    background-color: #00ffd2ba;
+  }
+
+  
+@media only screen and (max-width: 1200px) {
+    .title-header {
+      min-width: auto;
+      width: 90%;
+    }
+    .title-menu {
+      min-width: auto;
+      width: 90%;
+    }
+  }
+  
+  @media only screen and (max-width: 992px) {
+    .title-block {
+      height: 300px;
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    .title-block {
+      height: 174px;
+    }
+    .title-header h1 {
+      font-size: 24px;
+    }
+    .title-header {
+      width: 64%;
+    }
+    .title-header {
+      padding: 12px 0;
+    }
+    .title-menu {
+      padding: 2px;
+      width: 64%;
+    }
+    .title-menu a {
+      padding: 0 16px;
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    .title-header h1 {
+      font-size: 18px;
+    }
+    .title-block {
+      height: 200px;
+    }
+    .title-header {
+      position: absolute;
+      top: 50px;
+      width: 88%;
+    }
+    .title-menu {
+      padding: 8px;
+      width: 88%;
+    }
+  }

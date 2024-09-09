@@ -1,0 +1,12 @@
+.content-block {
+    display: flex;
+    justify-content: center;
+    padding-top: 36px;
+  }
+
+@media only screen and (max-width: 1200px) {
+  .content-block {
+    flex-direction: column;
+    align-items: center;
+  }
+}
