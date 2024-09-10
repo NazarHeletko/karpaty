@@ -35,3 +35,8 @@
 .social .twitter:hover {
     color: #2ba4f3;
 }
+@media only screen and (max-width: 500px) {
+    .social {
+        margin-bottom: 18px;
+    }
+}
