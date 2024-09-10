@@ -5,6 +5,8 @@
     -moz-box-shadow: 0px 0px 8px 1px rgb(0 0 0 / 23%);
     box-shadow: 0px 0px 8px 1px rgb(0 0 0 / 23%);
     margin-bottom: 34px;
+    background-color: #363636;
+    border-radius: 4px;
 }
 .items {
     display: flex;
@@ -12,7 +14,7 @@
     justify-content: space-evenly;
 }
 .social span {
-    color: #535858;
+    color: #e1e1e1;
     margin-left: 8px;
     transition: 0.3s color ease-in-out;
 }
@@ -28,7 +30,7 @@
     color: #ff156b;
 }
 .social .tiktok:hover {
-    color: black;
+    color: #69c9d0;
 }
 .social .twitter:hover {
     color: #2ba4f3;

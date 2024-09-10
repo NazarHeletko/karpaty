@@ -14,6 +14,7 @@
   cursor: pointer;
   box-sizing: border-box;
   transition: 0.4s border ease-in-out;
+
 }
 .item:hover {
     border: 2px solid #ffff00ba;
@@ -24,7 +25,7 @@
     padding: 2px 18px;
     font-size: 20px;
     border-radius: 2px;
-
+    margin-bottom: 4px;
 }
 @media only screen and (max-width: 500px) {
   .wrapper {
