@@ -14,7 +14,7 @@ export default function Home() {
     <main>
       <ContentPageHeader
         title="Відпочинок в Карпатах"
-        src="/mountain-header.png"
+        src="/regular/mountain-header.png"
         alt="Вид на карпати"
         hrefRealty="/realty"
         hrefTours="/tours"
@@ -57,11 +57,11 @@ export default function Home() {
             програми.
           </p>
           <RealtyBanerThreeItems
-            src1="/house-baner.jpg"
+            src1="/baners/house-baner.jpg"
             alt1="Будинок в горах"
-            src2="/gamping-baner.jpg"
+            src2="/baners/gamping-baner.jpg"
             alt2="Гемпінг"
-            src3="/hotel-baner.jpg"
+            src3="/baners/hotel-baner.jpg"
             alt3="Готель"
           />
           <h2>Найпопулярніші туристичні місця українських Карпат.</h2>

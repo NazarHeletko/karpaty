@@ -10,7 +10,7 @@ export default function RealtyBaner() {
       <div className={styles["realty-baner"]}>
         <Image
           priority
-          src="/realty-baner.png"
+          src="/baners/realty-baner.png"
           style={{objectFit: "cover"}}
           fill
           alt="Нерухомість банер"
