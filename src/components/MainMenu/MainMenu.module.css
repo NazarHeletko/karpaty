@@ -12,6 +12,7 @@
 .main-menu nav ul {
     padding-left: 0;
     margin-bottom: 0;
+    margin-top: 8px;
 }
 .main-menu nav ul li {
     list-style: none;
@@ -20,7 +21,7 @@
     margin-bottom: 2px;
 }
 .main-menu nav ul li img {
-    margin-right: 4px;
+    margin-right: 8px;
 }
 
 .main-menu nav ul li a {

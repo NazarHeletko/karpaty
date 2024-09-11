@@ -84,7 +84,7 @@
     position: relative;
 }
 .open-menu{
-    height: 360px;
+    height: 564px;
 }
 .close-btn{
     position: absolute;
@@ -237,6 +237,6 @@
         width: 94%;
     }
     .open-menu{
-        height: 444px;
+        height: -webkit-fill-available;
     }
 }

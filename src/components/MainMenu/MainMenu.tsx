@@ -28,6 +28,91 @@ export default function MainMenu() {
             />
             <Link href="/">продаж</Link>
           </li>
+          <li>
+            <Image
+              src="/icons/house-icon.svg"
+              width={16}
+              height={16}
+              className={styles.responsiveImage}
+              alt="Будиночки в Карпатах"
+            />
+            <Link href="/">будиночки</Link>
+          </li>
+          <li>
+            <Image
+              src="/icons/cottage-icon.svg"
+              width={16}
+              height={16}
+              className={styles.responsiveImage}
+              alt="Котеджі в Карпатах"
+            />
+            <Link href="/">котеджі</Link>
+          </li>
+          <li>
+            <Image
+              src="/icons/hotel-icon.svg"
+              width={16}
+              height={16}
+              className={styles.responsiveImage}
+              alt="Готелі в Карпатах"
+            />
+            <Link href="/">готелі</Link>
+          </li>
+          <li>
+            <Image
+              src="/icons/glamping-icon.svg"
+              width={16}
+              height={16}
+              className={styles.responsiveImage}
+              alt="Купольні будинки в Карпатах"
+            />
+            <Link href="/">куполи</Link>
+          </li>
+          <li>
+            <Image
+              src="/icons/base-icon.svg"
+              width={16}
+              height={16}
+              className={styles.responsiveImage}
+              alt="Відпочинкові бази житла в Карпатах"
+            />
+            <Link href="/">бази</Link>
+          </li>
+        </ul>
+      </nav>
+      <nav>
+        <p>Дозвілля</p>
+        <ul>
+          <li>
+            <Image
+              src="/icons/eat-icon.svg"
+              width={16}
+              height={16}
+              alt="Поїсти в Карпатах"
+              className={styles.responsiveImage}
+            />
+            <Link href="/">розваги</Link>
+          </li>
+          <li>
+            <Image
+              src="/icons/drink-icon.svg"
+              width={16}
+              height={16}
+              alt="Попити в Карпатах"
+              className={styles.responsiveImage}
+            />
+            <Link href="/">лижі</Link>
+          </li>
+          <li>
+            <Image
+              src="/icons/drink-icon.svg"
+              width={16}
+              height={16}
+              alt="Попити в Карпатах"
+              className={styles.responsiveImage}
+            />
+            <Link href="/">водні</Link>
+          </li>
         </ul>
       </nav>
       <nav>
@@ -61,7 +146,7 @@ export default function MainMenu() {
               alt="Активний відпочинок в Карпатах"
               className={styles.responsiveImage}
             />
-            <Link href="/">активний відпочинок</Link>
+            <Link href="/">активний</Link>
           </li>
         </ul>
       </nav>
