@@ -105,4 +105,8 @@
       padding: 8px;
       width: 88%;
     }
+    .title-menu a{
+      font-size: 18px;
+      padding: 0 20px 4px 20px;
+    }
   }
