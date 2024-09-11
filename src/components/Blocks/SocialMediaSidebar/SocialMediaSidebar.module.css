@@ -4,7 +4,7 @@
     -webkit-box-shadow: 0px 0px 8px 1px rgb(0 0 0 / 23%);
     -moz-box-shadow: 0px 0px 8px 1px rgb(0 0 0 / 23%);
     box-shadow: 0px 0px 8px 1px rgb(0 0 0 / 23%);
-    margin-bottom: 34px;
+    margin-bottom: 26px;
     background-color: #363636;
     border-radius: 4px;
 }
@@ -35,8 +35,26 @@
 .social .twitter:hover {
     color: #2ba4f3;
 }
+
+@media only screen and (max-width: 1200px) {
+    .social {
+        display: flex;
+        align-items: center;
+    }
+    .item {
+        margin: 26px 0;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .social{
+        width: 49%;
+    }
+}
 @media only screen and (max-width: 500px) {
     .social {
         margin-bottom: 18px;
+    }
+    .social{
+        width: 100%;
     }
 }
