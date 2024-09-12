@@ -95,23 +95,53 @@ export default function MainMenu() {
           </li>
           <li>
             <Image
-              src="/icons/drink-icon.svg"
+              src="/icons/skiing-icon.svg"
               width={16}
               height={16}
-              alt="Попити в Карпатах"
+              alt="Лижі в Карпатах"
               className={styles.responsiveImage}
             />
             <Link href="/">лижі</Link>
           </li>
           <li>
             <Image
-              src="/icons/drink-icon.svg"
+              src="/icons/water-icon.svg"
               width={16}
               height={16}
-              alt="Попити в Карпатах"
+              alt="Водні в Карпатах"
               className={styles.responsiveImage}
             />
             <Link href="/">водні</Link>
+          </li>
+          <li>
+            <Image
+              src="/icons/exchange-icon.svg"
+              width={16}
+              height={16}
+              alt="Прокат в Карпатах"
+              className={styles.responsiveImage}
+            />
+            <Link href="/">прокат</Link>
+          </li>
+          <li>
+            <Image
+              src="/icons/sport-icon.svg"
+              width={16}
+              height={16}
+              alt="Спорт в Карпатах"
+              className={styles.responsiveImage}
+            />
+            <Link href="/">спорт</Link>
+          </li>
+          <li>
+            <Image
+              src="/icons/horse-icon.svg"
+              width={16}
+              height={16}
+              alt="Кінний спорт в Карпатах"
+              className={styles.responsiveImage}
+            />
+            <Link href="/">кінний</Link>
           </li>
         </ul>
       </nav>
