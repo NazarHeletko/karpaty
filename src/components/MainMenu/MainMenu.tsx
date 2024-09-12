@@ -143,6 +143,16 @@ export default function MainMenu() {
             />
             <Link href="/">кінний</Link>
           </li>
+          <li>
+            <Image
+              src="/icons/museum-icon.svg"
+              width={16}
+              height={16}
+              alt="Кінний спорт в Карпатах"
+              className={styles.responsiveImage}
+            />
+            <Link href="/">музеї</Link>
+          </li>
         </ul>
       </nav>
       <nav>
