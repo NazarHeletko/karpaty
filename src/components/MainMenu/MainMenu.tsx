@@ -150,16 +150,6 @@ export default function MainMenu() {
         <ul>
           <li>
             <Image
-              src="/icons/mountain-road-icon.svg"
-              width={16}
-              height={16}
-              alt="Походи в Карпатах"
-              className={styles.responsiveImage}
-            />
-            <Link href="/">походи</Link>
-          </li>
-          <li>
-            <Image
               src="/icons/locations-icon.svg"
               width={16}
               height={16}
@@ -176,7 +166,7 @@ export default function MainMenu() {
               alt="Активний відпочинок в Карпатах"
               className={styles.responsiveImage}
             />
-            <Link href="/">активний</Link>
+            <Link href="/">походи</Link>
           </li>
         </ul>
       </nav>
