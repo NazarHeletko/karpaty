@@ -101,4 +101,11 @@
     .item:nth-child(4) {
         margin-top: 18px;
     }
+    .social {
+        align-items: center;
+    }
+    .item a {
+        margin: 6px 0;
+        font-size: 20px;
+    }
 }
