@@ -117,4 +117,7 @@
     .sub-column {
         margin: 0 14px 0 0;
     }
+    .item:nth-child(4) span{
+        margin-bottom: 14px;
+    }
 }
