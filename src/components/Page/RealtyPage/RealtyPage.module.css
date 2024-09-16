@@ -1,0 +1,22 @@
+.wrapper {
+    height: 2000px;
+    padding-top: 22px;
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+}
+.content {
+    width: 1180px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .content {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .content {
+        width: 94%;
+    }
+}

@@ -73,7 +73,10 @@ export default function Header() {
 
       <div className={styles["mobile-menu"]}>
         {mobileMenuState && (
-          <div onClick={() => setMobileMenuState(false)} className={styles["mobile-menu-items-wrapper"]}></div>
+          <div
+            onClick={() => setMobileMenuState(false)}
+            className={styles["mobile-menu-items-wrapper"]}
+          ></div>
         )}
         <div
           className={`${styles["nav-icon1"]} ${
@@ -86,13 +89,19 @@ export default function Header() {
           <span></span>
 
           {mobileMenuState && (
-            <div onClick={(e) => e.stopPropagation()} className={styles["mobile-menu-items"]}>
+            <div
+              onClick={(e) => e.stopPropagation()}
+              className={styles["mobile-menu-items"]}
+            >
               <ul>
                 <li>
                   <Link href="/">Блог</Link>
                 </li>
                 <li>
                   <Link href="/">Контакти</Link>
+                </li>
+                <li>
+                  <Link href="/realty">Нерухомість</Link>
                 </li>
               </ul>
             </div>

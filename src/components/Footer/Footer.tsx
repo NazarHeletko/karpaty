@@ -35,7 +35,7 @@ const Footer = () => {
         </div>
         <div className={styles.item}>
           <div className={styles["social-wrapper"]}>
-            <span>Поділитися</span>
+            <span>Підпишіться</span>
             <div className={styles.social}>
               <Link href="/"><Image src="/icons/telegram-icon.svg" height={16} width={16} alt="телеграм"/>Телеграм</Link>
               <Link href="/"><Image src="/icons/instagram-icon.svg" height={16} width={16} alt="Інстаграм"/>Інстаграм</Link>

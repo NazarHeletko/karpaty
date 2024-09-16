@@ -8,6 +8,7 @@
     justify-content: center;
     position: fixed;
     z-index: 2;
+    top: 0;
 }
 .header-content {
     min-width: 1180px;
@@ -91,7 +92,7 @@
     height: 20px;
     width: 20px;
     right: 0;
-    margin: 35px 0 20px 20px;
+    margin: 20px 0 20px 20px;
     cursor: pointer;
     z-index: 1;
 }
@@ -183,7 +184,7 @@
 }
 
 .mobile-menu-items {
-    height: 100px;
+    height: 136px;
     width: 150px;
     background-color: rgb(0 0 0 / 87%);
     position: absolute;
@@ -238,5 +239,8 @@
     }
     .open-menu{
         height: 100dvh;
+    }
+    .close-btn {
+        margin: 35px 0 20px 20px;
     }
 }
