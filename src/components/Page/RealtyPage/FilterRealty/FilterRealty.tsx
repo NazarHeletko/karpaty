@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import styles from "./FilterRealty.module.css";
-import Select from "react-select";
+
 
 const FilterRealty = () => {
   return (
