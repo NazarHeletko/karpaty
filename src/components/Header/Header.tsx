@@ -101,7 +101,7 @@ export default function Header() {
                   <Link href="/">Контакти</Link>
                 </li>
                 <li>
-                  <Link href="/realty">Нерухомість</Link>
+                  <Link onClick={()=>setMobileMenuState(false)} href="/realty">Нерухомість</Link>
                 </li>
               </ul>
             </div>
