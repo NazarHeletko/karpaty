@@ -17,8 +17,9 @@ const RealtyItems = ({oblastItems}:Props) => {
         <RealityItem />
         <RealityItem />
         <RealityItem />
+        <RealityItem />
       </div>
-      {/* <div className={styles["search-recomendations-region"]}>
+      <div className={styles["search-recomendations-region"]}>
         <h2>Інші варіанти де поселитися в Карпатах</h2>
         <RealityItem />
         <RealityItem />
@@ -30,7 +31,7 @@ const RealtyItems = ({oblastItems}:Props) => {
         <RealityItem />
         <RealityItem />
         <RealityItem />
-      </div> */}
+      </div>
     </div>
   );
 };
