@@ -6,7 +6,7 @@
     margin-bottom: 26px;
     position: relative;
     overflow: hidden;
-    
+    cursor: pointer;
 }
 .sidebar-ad span {
     position: absolute;

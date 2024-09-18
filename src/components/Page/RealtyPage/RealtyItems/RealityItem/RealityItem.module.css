@@ -17,7 +17,8 @@
     box-sizing: border-box;
     cursor: pointer;
     box-shadow: none;
-    transition: box-shadow 0.2s ease-in-out;
+    transition: box-shadow 0.3s ease-in-out;
+    align-items: center;
 }
 
 .item:hover {
@@ -30,7 +31,7 @@
     position: absolute;
     bottom: 16px;
     height: 46px;
-    background-color: #2b2b00b5;
+    background-color: #0c0c00cf;
     width: 92%;
     border-radius: 2px;
     color: white;
@@ -49,7 +50,27 @@
 .location{
     margin-right: 16px;
 }
+.details-wrapper {
+    position: absolute;
+    background-color: #0000001a;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+.details-wrapper:hover {
+    opacity: 1;
+}
+.details {
 
+    padding: 10px 40px;
+    background-color: #0c0c00cf;
+    color: white;
+    border-radius: 2px;
+}
 @media only screen and (max-width: 1200px) {
     .item {
         height: 302px;

@@ -11,8 +11,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/rent-house-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               className={styles.responsiveImage}
               alt="Оренда житла в Карпатах"
             />
@@ -21,8 +21,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/house-sell-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               className={styles.responsiveImage}
               alt="Продажа житла в Карпатах"
             />
@@ -31,8 +31,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/house-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               className={styles.responsiveImage}
               alt="Будиночки в Карпатах"
             />
@@ -51,8 +51,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/hotel-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               className={styles.responsiveImage}
               alt="Готелі в Карпатах"
             />
@@ -61,8 +61,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/glamping-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               className={styles.responsiveImage}
               alt="Купольні будинки в Карпатах"
             />
@@ -71,8 +71,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/base-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               className={styles.responsiveImage}
               alt="Відпочинкові бази житла в Карпатах"
             />
@@ -86,8 +86,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/eat-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Поїсти в Карпатах"
               className={styles.responsiveImage}
             />
@@ -96,8 +96,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/skiing-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Лижі в Карпатах"
               className={styles.responsiveImage}
             />
@@ -106,8 +106,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/water-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Водні в Карпатах"
               className={styles.responsiveImage}
             />
@@ -116,8 +116,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/exchange-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Прокат в Карпатах"
               className={styles.responsiveImage}
             />
@@ -126,8 +126,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/sport-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Спорт в Карпатах"
               className={styles.responsiveImage}
             />
@@ -136,8 +136,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/horse-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Кінний спорт в Карпатах"
               className={styles.responsiveImage}
             />
@@ -146,8 +146,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/museum-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Кінний спорт в Карпатах"
               className={styles.responsiveImage}
             />
@@ -161,8 +161,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/locations-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Місця в Карпатах"
               className={styles.responsiveImage}
             />
@@ -171,8 +171,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/activity-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Активний відпочинок в Карпатах"
               className={styles.responsiveImage}
             />
@@ -186,8 +186,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/swimming-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Басейни в Карпатах"
               className={styles.responsiveImage}
             />
@@ -196,8 +196,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/spa-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="SPA в Карпатах"
               className={styles.responsiveImage}
             />
@@ -206,8 +206,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/tub-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Чани в Карпатах"
               className={styles.responsiveImage}
             />
@@ -216,8 +216,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/sauna-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Сауна в Карпатах"
               className={styles.responsiveImage}
             />
@@ -231,8 +231,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/eat-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Поїсти в Карпатах"
               className={styles.responsiveImage}
             />
@@ -241,8 +241,8 @@ export default function MainMenu() {
           <li>
             <Image
               src="/icons/drink-icon.svg"
-              width={16}
-              height={16}
+              width={20}
+              height={20}
               alt="Попити в Карпатах"
               className={styles.responsiveImage}
             />

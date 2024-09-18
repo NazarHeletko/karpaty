@@ -17,6 +17,7 @@ const FilterRealty = () => {
             <option value="parrot">Чернівецька</option>
           </select>
           <span className={styles["custom-arrow"]}></span>
+
         </div>
         <div className={styles["custom-select"]}>
           <select name="raion">

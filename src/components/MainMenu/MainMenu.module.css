@@ -9,6 +9,9 @@
 .main-menu nav {
     width: 25%;
 }
+.main-menu nav p {
+    font-size: 22px;
+}
 .main-menu nav ul {
     padding-left: 0;
     margin-bottom: 0;
@@ -18,7 +21,10 @@
     list-style: none;
     display: flex;
     align-items: center;
-    margin-bottom: 2px;
+    margin-bottom: 8px;
+}
+.main-menu nav ul li a {
+    font-size: 20px;
 }
 .main-menu nav ul li img {
     margin-right: 8px;
@@ -26,7 +32,7 @@
 
 .main-menu nav ul li a {
     color: white;
-    transition: 0.2s color ease-in-out;
+    transition: color 0.2s ease-in-out;
 }
 .main-menu nav ul li a:hover {
     color: yellow;

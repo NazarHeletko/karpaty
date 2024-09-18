@@ -36,6 +36,12 @@ const RealityItem = () => {
             </div>
           </div>
         </div>
+        <div className={styles["details-wrapper"]}>
+        <div className={styles.details}>
+          <span>детальніше</span>
+        </div>
+        </div>
+
       </div>
     </div>
   );
