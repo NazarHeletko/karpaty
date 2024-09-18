@@ -1,7 +1,13 @@
 import RealityItem from "./RealityItem/RealityItem";
 import styles from "./RealtyItems.module.css";
 
-const RealtyItems = () => {
+type Props = {
+  oblastItems: Array<object>
+}
+
+
+const RealtyItems = ({oblastItems}:Props) => {
+  console.log(oblastItems)
   return (
     <div className={styles.items}>
       <div className={styles["search-results"]}>
@@ -12,7 +18,7 @@ const RealtyItems = () => {
         <RealityItem />
         <RealityItem />
       </div>
-      <div className={styles["search-recomendations-region"]}>
+      {/* <div className={styles["search-recomendations-region"]}>
         <h2>Інші варіанти де поселитися в Карпатах</h2>
         <RealityItem />
         <RealityItem />
@@ -24,7 +30,7 @@ const RealtyItems = () => {
         <RealityItem />
         <RealityItem />
         <RealityItem />
-      </div>
+      </div> */}
     </div>
   );
 };

@@ -20,6 +20,18 @@
     transition: box-shadow 0.3s ease-in-out;
     align-items: center;
 }
+.reality-title {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    background-color: gold;
+    color: black;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+.reality-title p {
+    margin: 0;
+}
 
 .item:hover {
     -webkit-box-shadow: 0px 0px 2px 2px rgb(0 0 0 / 74%);
@@ -29,11 +41,11 @@
 
 .short-info {
     position: absolute;
-    bottom: 16px;
-    height: 46px;
+    bottom: 6px;
+    height: 36px;
     background-color: #0c0c00cf;
     width: 92%;
-    border-radius: 2px;
+    border-radius: 6px;
     color: white;
     display: flex;
     align-items: center;

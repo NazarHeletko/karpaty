@@ -5,6 +5,7 @@ const RealityItem = () => {
   return (
     <div className={styles["item-wrapper"]}>
       <div className={styles.item}>
+
         <Image
           src="/baners/house-sidebar-baner-1.jpg"
           fill
@@ -36,12 +37,14 @@ const RealityItem = () => {
             </div>
           </div>
         </div>
+        <div className={styles["reality-title"]}>
+          <p>Садиба "У гостях у Христинки"</p>
+        </div>
         <div className={styles["details-wrapper"]}>
-        <div className={styles.details}>
-          <span>детальніше</span>
+          <div className={styles.details}>
+            <span>детальніше</span>
+          </div>
         </div>
-        </div>
-
       </div>
     </div>
   );

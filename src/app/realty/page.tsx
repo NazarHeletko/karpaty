@@ -14,7 +14,7 @@ export default function Realty() {
   return (
     <RealtyPage>
       <FilterRealty />
-      <RealtyItems />
+      <RealtyItems oblastItems={[{name: "Igor"}]}/>
     </RealtyPage>
   );
 }
