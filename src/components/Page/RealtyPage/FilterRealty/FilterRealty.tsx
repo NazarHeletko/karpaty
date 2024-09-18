@@ -11,12 +11,10 @@ const FilterRealty = () => {
         <div className={styles["custom-select"]}>
           <select name="oblast">
             <option value="">область</option>
-            <option value="dog">Dog</option>
-            <option value="cat">Cat</option>
-            <option value="hamster">Hamster</option>
-            <option value="parrot">Parrot</option>
-            <option value="spider">Spider</option>
-            <option value="goldfish">Goldfish</option>
+            <option value="dog">Закарпатська</option>
+            <option value="cat">Львівська</option>
+            <option value="hamster">Івано-франківська</option>
+            <option value="parrot">Чернівецька</option>
           </select>
           <span className={styles["custom-arrow"]}></span>
         </div>
