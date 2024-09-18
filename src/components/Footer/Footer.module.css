@@ -87,7 +87,7 @@
     margin: 0;
 }
 .phone {
-    font-size: 14px;
+    font-size: 14px !important;
 }
 .contact-header {
     color: white;
