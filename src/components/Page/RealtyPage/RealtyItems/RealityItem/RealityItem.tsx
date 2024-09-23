@@ -1,20 +1,32 @@
 import Image from "next/image";
 import styles from "./RealityItem.module.css";
 
-const RealityItem = () => {
+interface DataType  {
+  "oblast": string,
+  "raion": string,
+  "city": string,
+  "name": string,
+  "price": string,
+  "people-count": number,
+  "title-image": string
+};
+
+
+
+const RealityItem = ({realtyItem}:any) => {
   return (
     <div className={styles["item-wrapper"]}>
       <div className={styles.item}>
 
         <Image
-          src="/baners/house-sidebar-baner-1.jpg"
+          src={realtyItem["title-image"]}
           fill
           alt="house"
           style={{ objectFit: "cover" }}
         />
         <div className={styles["short-info"]}>
           <div className={styles.price}>
-            <span>3000 &#8372;</span>
+            <span>{realtyItem.price} &#8372;</span>
           </div>
           <div className={styles["right-info"]}>
             <div className={styles.location}>
@@ -24,7 +36,7 @@ const RealityItem = () => {
                 width={16}
                 alt="location"
               />
-              <span>Верховина</span>
+              <span>{realtyItem.city}</span>
             </div>
             <div className={styles.persons}>
               <Image
@@ -33,12 +45,12 @@ const RealityItem = () => {
                 width={16}
                 alt="location"
               />
-              <span>6</span>
+              <span>{realtyItem["people-count"]}</span>
             </div>
           </div>
         </div>
         <div className={styles["reality-title"]}>
-          <p>Садиба "У гостях у Христинки"</p>
+          <p>{realtyItem.name}</p>
         </div>
         <div className={styles["details-wrapper"]}>
           <div className={styles.details}>

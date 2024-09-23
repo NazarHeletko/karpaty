@@ -1,0 +1,146 @@
+[
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Арданово",
+    "name": "У христинки є малинки",
+    "price": "2900",
+    "people-count": 3,
+    "title-image": "/realty/1.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Берегово",
+    "name": "Юльчина хатинка",
+    "price": "2400",
+    "people-count": 1,
+    "title-image": "/realty/2.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Верховина",
+    "name": "Будинок на пагорбі",
+    "price": "2900",
+    "people-count": 1111,
+    "title-image": "/realty/3.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Кривопілля",
+    "name": "класна хата",
+    "price": "3900",
+    "people-count": 6,
+    "title-image": "/realty/4.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Криворівня",
+    "name": "Гарний котедж",
+    "price": "2900",
+    "people-count": 6,
+    "title-image": "/realty/5.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Мукачево",
+    "name": "Вілла для тебе",
+    "price": "2900",
+    "people-count": 6,
+    "title-image": "/realty/6.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Берегово",
+    "name": "Гори біля хати",
+    "price": "2900",
+    "people-count": 65,
+    "title-image": "/realty/7.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Ужгород",
+    "name": "Мисливська садиба",
+    "price": "2900",
+    "people-count": 43,
+    "title-image": "/realty/8.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Ворохта",
+    "name": "Паверпоїнт",
+    "price": "2900",
+    "people-count": 6,
+    "title-image": "/realty/9.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Медвеже",
+    "name": "Люкс готель",
+    "price": "2900",
+    "people-count": 12,
+    "title-image": "/realty/10.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "арданово",
+    "name": "На горі",
+    "price": "2900",
+    "people-count": 6,
+    "title-image": "/realty/11.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Яремче",
+    "name": "Верховель",
+    "price": "2900",
+    "people-count": 6,
+    "title-image": "/realty/12.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "арданово",
+    "name": "Пузата хата",
+    "price": "2900",
+    "people-count": 9,
+    "title-image": "/realty/13.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Красник",
+    "name": "Хобіти тут",
+    "price": "2900",
+    "people-count": 6,
+    "title-image": "/realty/14.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Ільці",
+    "name": "Юліна посмішка",
+    "price": "2900",
+    "people-count": 9,
+    "title-image": "/realty/1.jpg"
+  },
+  {
+    "oblast": "закарпатська",
+    "raion": "берегівський",
+    "city": "Стрий",
+    "name": "Юліний носик",
+    "price": "7900",
+    "people-count": 9,
+    "title-image": "/realty/2.jpg"
+  }
+]

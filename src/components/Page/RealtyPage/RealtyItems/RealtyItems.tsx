@@ -1,25 +1,37 @@
 import RealityItem from "./RealityItem/RealityItem";
 import styles from "./RealtyItems.module.css";
 
-type Props = {
-  oblastItems: Array<object>
+
+
+type DataType = {
+  "oblast": string,
+  "raion": string,
+  "city": string,
+  "name": string,
+  "price": string,
+  "people-count": number,
+  "title-image": string
+};
+
+interface MyPageProps {
+  realtyData: DataType[];
 }
 
-
-const RealtyItems = ({oblastItems}:Props) => {
-  console.log(oblastItems)
+const RealtyItems = ({realtyData}:MyPageProps) => {
+  console.log(typeof realtyData)
   return (
     <div className={styles.items}>
       <div className={styles["search-results"]}>
         <h1>Житло у Карпатах</h1>
-        <RealityItem />
-        <RealityItem />
-        <RealityItem />
-        <RealityItem />
-        <RealityItem />
-        <RealityItem />
+
+        {
+          realtyData.map(item => <RealityItem realtyItem={item}/>)
+        }
+
+        
+
       </div>
-      <div className={styles["search-recomendations-region"]}>
+      {/* <div className={styles["search-recomendations-region"]}>
         <h2>Інші варіанти де поселитися в Карпатах</h2>
         <RealityItem />
         <RealityItem />
@@ -31,7 +43,7 @@ const RealtyItems = ({oblastItems}:Props) => {
         <RealityItem />
         <RealityItem />
         <RealityItem />
-      </div>
+      </div> */}
     </div>
   );
 };
