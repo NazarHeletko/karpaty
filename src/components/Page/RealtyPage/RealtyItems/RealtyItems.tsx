@@ -4,6 +4,7 @@ import styles from "./RealtyItems.module.css";
 
 
 type DataType = {
+  "id": number
   "oblast": string,
   "raion": string,
   "city": string,
@@ -25,7 +26,7 @@ const RealtyItems = ({realtyData}:MyPageProps) => {
         <h1>Житло у Карпатах</h1>
 
         {
-          realtyData.map(item => <RealityItem realtyItem={item}/>)
+          realtyData.map(item => <RealityItem key={item.id} realtyItem={item}/>)
         }
 
         
