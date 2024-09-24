@@ -1,16 +1,6 @@
 import Image from "next/image";
 import styles from "./RealityItem.module.css";
 
-interface DataType  {
-  "oblast": string,
-  "raion": string,
-  "city": string,
-  "name": string,
-  "price": string,
-  "people-count": number,
-  "title-image": string
-};
-
 
 
 const RealityItem = ({realtyItem}:any) => {
