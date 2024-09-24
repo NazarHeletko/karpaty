@@ -24,7 +24,9 @@ type DataType = {
 };
 
 // export const revalidate = 0
-export const dynamic = 'force-dynamic';
+export const revalidate = 10
+export const dynamic = 'force-dynamic'
+export const fetchCache = 'force-no-store' 
 
 export default async function Realty() {
   const data = await fs.readFile(process.cwd() + '/src/data/realty.json', 'utf8');
