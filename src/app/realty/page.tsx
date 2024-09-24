@@ -3,6 +3,7 @@ import RealtyItems from "@/components/Page/RealtyPage/RealtyItems/RealtyItems";
 import RealtyPage from "@/components/Page/RealtyPage/RealtyPage";
 import { Metadata } from "next";
 import { promises as fs } from 'fs';
+import realty from '@/data/realty.json';
 
 
 export const metadata: Metadata = {
@@ -23,14 +24,16 @@ type DataType = {
   "title-image": string
 };
 
-// export const revalidate = 0
-export const revalidate = 10
-export const dynamic = 'force-dynamic'
-export const fetchCache = 'force-no-store' 
+export const revalidate = 0
+
 
 export default async function Realty() {
-  const data = await fs.readFile(process.cwd() + '/src/data/realty.json', 'utf8');
-  const realty = JSON.parse(data);
+  // const data = await fs.readFile(process.cwd() + '/src/data/realty.json', 'utf8');
+  // const realty = JSON.parse(data);
+
+
+
+
   function shuffleArray(array:DataType[]) {
     for (let i = array.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1)); // random index from 0 to i
