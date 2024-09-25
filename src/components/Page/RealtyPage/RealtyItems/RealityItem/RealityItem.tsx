@@ -1,13 +1,10 @@
 import Image from "next/image";
 import styles from "./RealityItem.module.css";
 
-
-
-const RealityItem = ({realtyItem}:any) => {
+const RealityItem = ({ realtyItem }: any) => {
   return (
     <div className={styles["item-wrapper"]}>
       <div className={styles.item}>
-
         <Image
           src={realtyItem["title-image"]}
           fill
@@ -41,6 +38,15 @@ const RealityItem = ({realtyItem}:any) => {
         </div>
         <div className={styles["reality-title"]}>
           <p>{realtyItem.name}</p>
+        </div>
+        <div className={styles.favorite}>
+          <Image
+            src="/icons/favorite-icon.svg"
+            width={16}
+            height={16}
+            alt="Улюблена нерухомість"
+          />
+          <span>зберегти</span>
         </div>
         <div className={styles["details-wrapper"]}>
           <div className={styles.details}>

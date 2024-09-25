@@ -83,6 +83,26 @@
     color: white;
     border-radius: 2px;
 }
+.favorite {
+    background-color: #0c0c00cf;
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    z-index: 1;
+    display: flex;
+    padding: 2px 6px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 200;
+    align-items: center;
+    transition: background-color 0.2s ease-in-out;
+}
+.favorite:hover {
+    background-color: #577825f0;
+}
+.favorite span {
+    margin-left: 4px;
+}
 @media only screen and (max-width: 1200px) {
     .item {
         height: 302px;
