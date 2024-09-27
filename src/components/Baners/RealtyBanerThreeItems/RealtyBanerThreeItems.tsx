@@ -28,7 +28,7 @@ const RealtyBanerThreeItems = ({
       </div>
       <div className={styles.item}>
         <Image src={src2} fill alt={alt2} style={{objectFit: "cover"}}/>
-        <span>Гемпінги</span>
+        <span>Глемпінги</span>
       </div>
       <div className={styles.item}>
         <Image src={src3} fill alt={alt3} style={{objectFit: "cover"}}/>
