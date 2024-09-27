@@ -949,9 +949,9 @@
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Matiyiv",
-    "route": "/matiyiv",
-    "option": "Матіїв"
+    "city": "Iltsi",
+    "route": "/iltsi",
+    "option": "Ільці"
   },
   {
     "oblast": "/ivano-frankivska",
@@ -963,58 +963,72 @@
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Dovhyi Potik",
-    "route": "/dovhyi-potik",
-    "option": "Довгий Потік"
+    "city": "Volova",
+    "route": "/volova",
+    "option": "Волова"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Syvulia",
-    "route": "/syvulia",
-    "option": "Сивуля"
+    "city": "Stayishche",
+    "route": "/stayishche",
+    "option": "Стаїще"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Shybenе",
-    "route": "/shybenе",
-    "option": "Шибене"
+    "city": "Verkhniy Yaseniv",
+    "route": "/verkhniy-yaseniv",
+    "option": "Верхній Ясенів"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Pidhirya",
-    "route": "/pidhirya",
-    "option": "Підгір'я"
+    "city": "Berezhnytsya",
+    "route": "/berezhnytsya",
+    "option": "Бережниця"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Vyzhnytsia",
-    "route": "/vyzhnytsia",
-    "option": "Вижниця"
+    "city": "Velykyy Khodak",
+    "route": "/velykyy-khodak",
+    "option": "Великий Ходак"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Lazeshchyna",
-    "route": "/lazeshchyna",
-    "option": "Лазещина"
+    "city": "Dzembronya",
+    "route": "/dzembronya",
+    "option": "Дземброня"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Roztoky",
-    "route": "/roztoky",
-    "option": "Розтоки"
+    "city": "Krasnoyillya",
+    "route": "/krasnoyillya",
+    "option": "Красноїлля"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Staryunya",
-    "route": "/staryunya",
-    "option": "Старуня"
+    "city": "Usteriky",
+    "route": "/usteriky",
+    "option": "Устеріки"
+  },
+  {
+    "oblast": "/ivano-frankivska",
+    "raion": "/verkhovyna-raion",
+    "city": "Zamahora",
+    "route": "/zamahora",
+    "option": "Замагора"
+  },
+  {
+    "oblast": "/ivano-frankivska",
+    "raion": "/verkhovyna-raion",
+    "city": "Bukovets",
+    "route": "/bukovets",
+    "option": "Буковець"
   },
   {
     "oblast": "/chernivetska",
