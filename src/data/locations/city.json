@@ -79,6 +79,13 @@
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
+    "city": "Tiachiv",
+    "route": "/tiachiv",
+    "option": "Тячів"
+  },
+  {
+    "oblast": "/zakarpatska",
+    "raion": "/tyachiv-raion",
     "city": "Ust-Chorna",
     "route": "/ust-chorna",
     "option": "Усть-Чорна"
@@ -177,13 +184,6 @@
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Mizhhirya",
-    "route": "/mizhhirya",
-    "option": "Міжгір'я"
-  },
-  {
-    "oblast": "/zakarpatska",
-    "raion": "/khust-raion",
     "city": "Kolochava",
     "route": "/kolochava",
     "option": "Колочава"
@@ -261,6 +261,13 @@
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
+    "city": "Kelechyn",
+    "route": "/kelechyn",
+    "option": "Келечин"
+  },
+  {
+    "oblast": "/zakarpatska",
+    "raion": "/khust-raion",
     "city": "Zabryd",
     "route": "/zabryd",
     "option": "Забрідь"
@@ -271,6 +278,13 @@
     "city": "Rokosovo",
     "route": "/rokosovo",
     "option": "Рокосово"
+  },
+  {
+    "oblast": "/zakarpatska",
+    "raion": "/mukachiv-raion",
+    "city": "Kosyno",
+    "route": "/kosyno",
+    "option": "Косино"
   },
   {
     "oblast": "/zakarpatska",
@@ -292,20 +306,6 @@
     "city": "Chynadiyovo",
     "route": "/chynadiyovo",
     "option": "Чинадійово"
-  },
-  {
-    "oblast": "/zakarpatska",
-    "raion": "/mukachiv-raion",
-    "city": "Velykyi Bereznyi",
-    "route": "/velykyi-bereznyi",
-    "option": "Великий Березний"
-  },
-  {
-    "oblast": "/zakarpatska",
-    "raion": "/mukachiv-raion",
-    "city": "Lumshory",
-    "route": "/lumshory",
-    "option": "Лумшори"
   },
   {
     "oblast": "/zakarpatska",
@@ -335,13 +335,7 @@
     "route": "/lisarnya",
     "option": "Лісарня"
   },
-  {
-    "oblast": "/zakarpatska",
-    "raion": "/mukachiv-raion",
-    "city": "Kelechyn",
-    "route": "/kelechyn",
-    "option": "Келечин"
-  },
+
   {
     "oblast": "/zakarpatska",
     "raion": "/mukachiv-raion",
@@ -429,6 +423,13 @@
   {
     "oblast": "/zakarpatska",
     "raion": "/uzhhorod-raion",
+    "city": "Lumshory",
+    "route": "/lumshory",
+    "option": "Лумшори"
+  },
+  {
+    "oblast": "/zakarpatska",
+    "raion": "/uzhhorod-raion",
     "city": "Nevytske",
     "route": "/nevitske",
     "option": "Невицьке"
@@ -446,13 +447,6 @@
     "city": "Storozhnytsia",
     "route": "/storozhnytsia",
     "option": "Сторожниця"
-  },
-  {
-    "oblast": "/zakarpatska",
-    "raion": "/uzhhorod-raion",
-    "city": "Huta",
-    "route": "/huta",
-    "option": "Гута"
   },
   {
     "oblast": "/zakarpatska",
@@ -496,13 +490,7 @@
     "route": "/skhidnytsia",
     "option": "Східниця"
   },
-  {
-    "oblast": "/lvivska",
-    "raion": "/drohobych-raion",
-    "city": "Urych",
-    "route": "/urych",
-    "option": "Урич"
-  },
+
   {
     "oblast": "/lvivska",
     "raion": "/drohobych-raion",
@@ -530,13 +518,6 @@
     "city": "Truskavets",
     "route": "/truskavets",
     "option": "Трускавець"
-  },
-  {
-    "oblast": "/lvivska",
-    "raion": "/drohobych-raion",
-    "city": "Volosianka",
-    "route": "/volosianka",
-    "option": "Волосянка"
   },
   {
     "oblast": "/lvivska",
@@ -577,9 +558,16 @@
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Play",
-    "route": "/play",
-    "option": "Плай"
+    "city": "Plavie",
+    "route": "/plavie",
+    "option": "Плав'я"
+  },
+  {
+    "oblast": "/lvivska",
+    "raion": "/stryi-raion",
+    "city": "Urych",
+    "route": "/urych",
+    "option": "Урич"
   },
   {
     "oblast": "/lvivska",
@@ -651,7 +639,13 @@
     "route": "/rozhanka",
     "option": "Рожанка"
   },
-
+  {
+    "oblast": "/lvivska",
+    "raion": "/stryi-raion",
+    "city": "Matkiv",
+    "route": "/matkiv",
+    "option": "Матків"
+  },
   {
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
@@ -693,13 +687,6 @@
     "city": "Verkhnie Husne",
     "route": "/verkhnie-husne",
     "option": "Верхнє Гусне"
-  },
-  {
-    "oblast": "/lvivska",
-    "raion": "/sambir-raion",
-    "city": "Matkiv",
-    "route": "/matkiv",
-    "option": "Матків"
   },
   {
     "oblast": "/lvivska",
