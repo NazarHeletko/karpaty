@@ -781,9 +781,9 @@
   {
     "oblast": "/ivano-frankivska",
     "raion": "/kosiv-raion",
-    "city": "Zavallya",
-    "route": "/zavallya",
-    "option": "Завалля"
+    "city": "Kosmach",
+    "route": "/kosmach",
+    "option": "Космач"
   },
   {
     "oblast": "/ivano-frankivska",
@@ -837,13 +837,6 @@
   {
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
-    "city": "Knyazhdvir",
-    "route": "/knyazhdvir",
-    "option": "Княждвір"
-  },
-  {
-    "oblast": "/ivano-frankivska",
-    "raion": "/nadvirna-raion",
     "city": "Lanchyn",
     "route": "/lanchyn",
     "option": "Ланчин"
@@ -861,13 +854,6 @@
     "city": "Pniv",
     "route": "/pniv",
     "option": "Пнів"
-  },
-  {
-    "oblast": "/ivano-frankivska",
-    "raion": "/nadvirna-raion",
-    "city": "Hvozd",
-    "route": "/hvozd",
-    "option": "Гвозд"
   },
   {
     "oblast": "/ivano-frankivska",
