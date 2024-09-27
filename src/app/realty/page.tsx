@@ -2,9 +2,7 @@ import FilterRealty from "@/components/Page/RealtyPage/FilterRealty/FilterRealty
 import RealtyItems from "@/components/Page/RealtyPage/RealtyItems/RealtyItems";
 import RealtyPage from "@/components/Page/RealtyPage/RealtyPage";
 import { Metadata } from "next";
-import { promises as fs } from 'fs';
-import realty from '@/data/realty.json';
-
+import realty from "@/data/realty.json";
 
 export const metadata: Metadata = {
   title:
@@ -14,38 +12,31 @@ export const metadata: Metadata = {
 };
 
 type DataType = {
-  "id": number
-  "oblast": string,
-  "raion": string,
-  "city": string,
-  "name": string,
-  "price": string,
-  "people-count": number,
-  "title-image": string
+  id: number;
+  oblast: string;
+  raion: string;
+  city: string;
+  name: string;
+  price: string;
+  "people-count": number;
+  "title-image": string;
 };
 
-export const revalidate = 0
-
+export const revalidate = 0;
 
 export default async function Realty() {
-  // const data = await fs.readFile(process.cwd() + '/src/data/realty.json', 'utf8');
-  // const realty = JSON.parse(data);
-
-
-
-
-  function shuffleArray(array:DataType[]) {
+  function shuffleArray(array: DataType[]) {
     for (let i = array.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1)); // random index from 0 to i
-      [array[i], array[j]] = [array[j], array[i]];  // swap elements
+      [array[i], array[j]] = [array[j], array[i]]; // swap elements
     }
     return array;
   }
-  const randomizeRealtyArray = shuffleArray(realty)
+  const randomizeRealtyArray = shuffleArray(realty);
   return (
     <RealtyPage>
-      <FilterRealty />
-      <RealtyItems realtyData={randomizeRealtyArray}/>
+      <FilterRealty building={""} oblast={""} raion={""}/>
+      <RealtyItems realtyData={randomizeRealtyArray} />
     </RealtyPage>
   );
 }

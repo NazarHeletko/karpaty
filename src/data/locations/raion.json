@@ -1,0 +1,104 @@
+[
+  {
+    "oblast": "/zakarpatska",
+    "raion": "",
+    "route": "",
+    "option": "район"
+  },
+  {
+    "oblast": "/zakarpatska",
+    "raion": "rakhiv-raion",
+    "route": "/rakhiv-raion",
+    "option": "Рахівський"
+  },
+  {
+    "oblast": "/zakarpatska",
+    "raion": "tyachiv-raion",
+    "route": "/tyachiv-raion",
+    "option": "Тячівський"
+  },
+  {
+    "oblast": "/zakarpatska",
+    "raion": "khust-raion",
+    "route": "/khust-raion",
+    "option": "Хустський"
+  },
+  {
+    "oblast": "/zakarpatska",
+    "raion": "mukachiv-raion",
+    "route": "/mukachiv-raion",
+    "option": "Мукачівський"
+  },
+  {
+    "oblast": "/zakarpatska",
+    "raion": "berehiv-raion",
+    "route": "/berehiv-raion",
+    "option": "Берегівський"
+  },
+  {
+    "oblast": "/zakarpatska",
+    "raion": "uzhhorod-raion",
+    "route": "/uzhhorod-raion",
+    "option": "Ужгородський"
+  },
+  {
+    "oblast": "/lvivska",
+    "raion": "",
+    "route": "",
+    "option": "район"
+  },
+  {
+    "oblast": "/lvivska",
+    "raion": "sambir-raion",
+    "route": "/sambir-raion",
+    "option": "Самбірський"
+  },
+  {
+    "oblast": "/lvivska",
+    "raion": "stryi-raion",
+    "route": "/stryi-raion",
+    "option": "Стрийський"
+  },
+  {
+    "oblast": "/lvivska",
+    "raion": "drohobych-raion",
+    "route": "/drohobych-raion",
+    "option": "Дрогобицький"
+  },
+  {
+    "oblast": "/ivano-frankivska",
+    "raion": "",
+    "route": "",
+    "option": "район"
+  },
+  {
+    "oblast": "/ivano-frankivska",
+    "raion": "kosiv-raion",
+    "route": "/kosiv-raion",
+    "option": "Косівський"
+  },
+  {
+    "oblast": "/ivano-frankivska",
+    "raion": "nadvirna-raion",
+    "route": "/nadvirna-raion",
+    "option": "Надвірнянський"
+  },
+  {
+    "oblast": "/ivano-frankivska",
+    "raion": "verkhovyna-raion",
+    "route": "/verkhovyna-raion",
+    "option": "Верховинський"
+  },
+  {
+    "oblast": "/chernivetska",
+    "raion": "",
+    "route": "",
+    "option": "район"
+  },
+  {
+    "oblast": "/chernivetska",
+    "raion": "vyzhnytsia-raion",
+    "route": "/vyzhnytsia-raion",
+    "option": "Вижницький"
+  }
+]

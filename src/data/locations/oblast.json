@@ -1,0 +1,22 @@
+[
+  {
+    "route": "",
+    "option": "область"
+  },
+  {
+    "route": "/zakarpatska",
+    "option": "Закарпатська"
+  },
+  {
+    "route": "/lvivska",
+    "option": "Львівська"
+  },
+  {
+    "route": "/ivano-frankivska",
+    "option": "Івано-франківська"
+  },
+  {
+    "route": "/chernivetska",
+    "option": "Чернівецька"
+  }
+]

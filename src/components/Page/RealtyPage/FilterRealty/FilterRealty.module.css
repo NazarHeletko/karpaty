@@ -90,7 +90,7 @@
 
 @media only screen and (max-width: 1200px) {
     .custom-select {
-        min-width: 178px;
+        min-width: 188px;
     }
     .options {
         flex-wrap: wrap;
