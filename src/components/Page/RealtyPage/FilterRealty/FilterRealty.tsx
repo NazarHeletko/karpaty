@@ -6,6 +6,7 @@ import { useState } from "react";
 import oblastList from "@/data/locations/oblast.json";
 import raionList from "@/data/locations/raion.json";
 import cityList from "@/data/locations/city.json";
+import Image from "next/image";
 
 const bildingType = [
   { option: "тип", route: "" },
@@ -16,16 +17,14 @@ const bildingType = [
   { option: "бази відпочинку", route: "/base" },
 ];
 
-const FilterRealty = ({ building, oblast }: any) => {
+const FilterRealty = ({ building, oblast, raion}: any) => {
   const [oblastValue, setOblastValue] = useState(oblast);
-  const [raionValue, setRaionValue] = useState("");
+  const [raionValue, setRaionValue] = useState(raion);
   const [cityValue, setCityValue] = useState("");
   const [buildingValue, setBuildingValue] = useState(building);
+  const [searchValue, setSearchValue] = useState("");
 
-  // const [, setOblastOptions] = useState("")
-  // const [raionOptions, setRaionOptions] = useState("")
-  // const [cityOptions, setCityOptions] = useState("")
-  // const [buildingOptions, setBuildingOptions] = useState("")
+
 
   const handBuildingChange = (event: any) => {
     setBuildingValue(event.target.value);
@@ -40,6 +39,10 @@ const FilterRealty = ({ building, oblast }: any) => {
     setCityValue(event.target.value);
   };
 
+  const handSerchChange = (event: any) => {
+    setCityValue(event.target.value);
+  };
+  
   console.log(buildingValue);
   return (
     <div className={styles.filter}>
@@ -113,6 +116,31 @@ const FilterRealty = ({ building, oblast }: any) => {
         >
           шукати
         </Link>
+      </div>
+      <div className={styles["serch-favorite"]}>
+        <div className={styles["search-input"]}>
+          <input type="text" placeholder="шукати" value={searchValue}/>
+        </div>
+
+        <div className={styles["favorite-saved"]}>
+          <Image
+            src="/icons/favorite-icon.svg"
+            width={16}
+            height={16}
+            alt="Улюблена нерухомість"
+          />
+          <span>збережені</span>
+        </div>
+        <div className={styles["city-serch-list"]}>
+              <p>fdfddffd</p>
+              <p>fdfddffd</p>
+              <p>fdfddffd</p>
+              <p>fdfddffd</p>
+              <p>fdfddffd</p>
+              <p>fdfddffd</p>
+              <p>fdfddffd</p>
+              <p>fdfddffd</p>
+        </div>
       </div>
       <div className={styles.relax}>
         <Link href="/">спа</Link>

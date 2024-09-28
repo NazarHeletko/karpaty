@@ -35,7 +35,7 @@ export default async function Realty() {
   const randomizeRealtyArray = shuffleArray(realty);
   return (
     <RealtyPage>
-      <FilterRealty building={""} oblast={""} raion={""}/>
+      <FilterRealty building={""} oblast={""} raion={""} city={""}/>
       <RealtyItems realtyData={randomizeRealtyArray} />
     </RealtyPage>
   );
