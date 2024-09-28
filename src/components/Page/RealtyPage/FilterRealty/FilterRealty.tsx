@@ -17,14 +17,12 @@ const bildingType = [
   { option: "бази відпочинку", route: "/base" },
 ];
 
-const FilterRealty = ({ building, oblast, raion}: any) => {
+const FilterRealty = ({ building, oblast, raion }: any) => {
   const [oblastValue, setOblastValue] = useState(oblast);
   const [raionValue, setRaionValue] = useState(raion);
   const [cityValue, setCityValue] = useState("");
   const [buildingValue, setBuildingValue] = useState(building);
   const [searchValue, setSearchValue] = useState("");
-
-
 
   const handBuildingChange = (event: any) => {
     setBuildingValue(event.target.value);
@@ -40,10 +38,9 @@ const FilterRealty = ({ building, oblast, raion}: any) => {
   };
 
   const handSerchChange = (event: any) => {
-    setCityValue(event.target.value);
+    setSearchValue(event.target.value);
   };
-  
-  console.log(buildingValue);
+
   return (
     <div className={styles.filter}>
       <div className={styles.options}>
@@ -119,7 +116,12 @@ const FilterRealty = ({ building, oblast, raion}: any) => {
       </div>
       <div className={styles["serch-favorite"]}>
         <div className={styles["search-input"]}>
-          <input type="text" placeholder="шукати" value={searchValue}/>
+          <input
+            onChange={handSerchChange}
+            type="text"
+            placeholder="шукати"
+            value={searchValue}
+          />
         </div>
 
         <div className={styles["favorite-saved"]}>
@@ -132,14 +134,13 @@ const FilterRealty = ({ building, oblast, raion}: any) => {
           <span>збережені</span>
         </div>
         <div className={styles["city-serch-list"]}>
-              <p>fdfddffd</p>
-              <p>fdfddffd</p>
-              <p>fdfddffd</p>
-              <p>fdfddffd</p>
-              <p>fdfddffd</p>
-              <p>fdfddffd</p>
-              <p>fdfddffd</p>
-              <p>fdfddffd</p>
+          {searchValue ? cityList
+            .filter((item) =>
+              item.option.toLowerCase().includes(searchValue.toLowerCase())
+            )
+            .map((el) => (
+              <p>{el.option}</p>
+            )): null}
         </div>
       </div>
       <div className={styles.relax}>
