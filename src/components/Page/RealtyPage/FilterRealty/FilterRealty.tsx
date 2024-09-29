@@ -152,7 +152,7 @@ const FilterRealty = ({ building, oblast, raion }: any) => {
                     .toLowerCase()
                     .startsWith(searchValue.toLowerCase())
                 )
-                .map((el) => <Link href={""}>{el.option}</Link>)
+                .map((el) => <Link key={el.route} href={""}>{el.option}</Link>)
             : null}
         </div>
       </div>
