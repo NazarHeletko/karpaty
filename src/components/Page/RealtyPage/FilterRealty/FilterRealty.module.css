@@ -192,7 +192,9 @@
     }
     .options {
         flex-wrap: wrap;
-
+    }
+    .search-input {
+        width: 58%;
     }
 }
 
@@ -215,8 +217,19 @@
         margin-top: 16px;
         text-align: center;
     }
+    .serch-favorite {
+        margin-top: 14px;
+    }
 }
     
+@media only screen and (max-width: 768px) {
+    .serch-favorite {
+        justify-content: flex-start;
+    }
+    .search-input {
+        width: 74%;
+    }
+}
 
 @media only screen and (max-width: 600px) {
     .search-btn {
@@ -239,10 +252,11 @@
     .custom-select {
         width: 48%;
     }
+    .search-input {
+        width: 72%;
+    }
 }
 
 @media only screen and (max-width: 500px) {
-    .relax a {
 
-    }
 }
