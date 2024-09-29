@@ -40,6 +40,9 @@ const FilterRealty = ({ building, oblast, raion }: any) => {
   const handSerchChange = (event: any) => {
     setSearchValue(event.target.value);
   };
+  const handSerchClear = (event: any) => {
+    setSearchValue("");
+  };
 
   return (
     <div className={styles.filter}>
@@ -122,6 +125,14 @@ const FilterRealty = ({ building, oblast, raion }: any) => {
             placeholder="шукати"
             value={searchValue}
           />
+          <div className={styles["clear-search"]} onClick={handSerchClear}>
+            <Image
+              src="/icons/broom-icon.svg"
+              width={18}
+              height={18}
+              alt="Очистити пошук"
+            />
+          </div>
         </div>
 
         <div className={styles["favorite-saved"]}>
@@ -134,13 +145,15 @@ const FilterRealty = ({ building, oblast, raion }: any) => {
           <span>збережені</span>
         </div>
         <div className={styles["city-serch-list"]}>
-          {searchValue ? cityList
-            .filter((item) =>
-              item.option.toLowerCase().includes(searchValue.toLowerCase())
-            )
-            .map((el) => (
-              <p>{el.option}</p>
-            )): null}
+          {searchValue
+            ? cityList
+                .filter((item) =>
+                  item.option
+                    .toLowerCase()
+                    .startsWith(searchValue.toLowerCase())
+                )
+                .map((el) => <Link href={""}>{el.option}</Link>)
+            : null}
         </div>
       </div>
       <div className={styles.relax}>
