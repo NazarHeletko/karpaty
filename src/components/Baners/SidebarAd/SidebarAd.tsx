@@ -21,7 +21,7 @@ export default function ImageArticleRight({ src, alt, title, location }: Props) 
             width={14}
             alt="location"
           />
-          <span className={styles["location-title"]}>Верховина</span>
+          <span className={styles["location-title"]}>{location}</span>
         </div>
       </div>
     </div>
