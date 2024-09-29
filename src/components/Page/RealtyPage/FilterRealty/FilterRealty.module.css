@@ -132,7 +132,7 @@
     border: 1px solid #00800057;
 }
 .search-input input::placeholder {
-    color: #000000b8;
+    color: #00000096;
   }
 
 .search-input input:focus::placeholder {

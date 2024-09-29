@@ -122,7 +122,7 @@ const FilterRealty = ({ building, oblast, raion }: any) => {
           <input
             onChange={handSerchChange}
             type="text"
-            placeholder="шукати"
+            placeholder="знайти"
             value={searchValue}
           />
           <div className={styles["clear-search"]} onClick={handSerchClear}>
