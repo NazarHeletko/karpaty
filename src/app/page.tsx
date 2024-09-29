@@ -105,9 +105,9 @@ export default function Home() {
         </Content>
         <Info>
           <SocialMediaSidebar />
-          <SidebarAd src="/baners/house-sidebar-baner-1.jpg" alt="Реклама банер" title="Файний House"/>
-          <SidebarAd src="/baners/house-sidebar-baner-2.jpg" alt="Реклама банер" title="Лісова хатинка"/>
-          <SidebarAd src="/baners/house-sidebar-baner-3.jpg" alt="Реклама банер" title='Котедж "Зелений гайок"'/>
+          <SidebarAd src="/baners/house-sidebar-baner-1.jpg" alt="Реклама банер" title="Файний House" location="Мукачево"/>
+          <SidebarAd src="/baners/house-sidebar-baner-2.jpg" alt="Реклама банер" title="Лісова хатинка" location="Верховина"/>
+          <SidebarAd src="/baners/house-sidebar-baner-3.jpg" alt="Реклама банер" title='Котедж "Зелений гайок"'location="Криворівня"/>
 
         </Info>
       </ContentPage>
