@@ -302,5 +302,6 @@
     }
     .city-serch-list{
         width: 100%;
+        top: 56px;
     }
 }
