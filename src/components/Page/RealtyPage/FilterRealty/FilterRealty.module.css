@@ -260,7 +260,7 @@
 @media only screen and (max-width: 500px) {
     .serch-favorite {
         flex-wrap: wrap;
-        margin-top: 28px;
+        margin-top: 30px;
     }
     .favorite-saved {
         padding: 0;
