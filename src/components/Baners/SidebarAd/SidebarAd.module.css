@@ -8,15 +8,23 @@
     overflow: hidden;
     cursor: pointer;
 }
-.sidebar-ad span {
+.description {
     position: absolute;
-    z-index: 1;
-    background-color: #ffff00d1;
+    background-color: #0c0c00cf;
     bottom: 4px;
     width: 100%;
-    text-align: center;
-    padding: 4px 0;
+    display: flex;
+    color: white;
+    padding: 6px 8px;
+    box-sizing: border-box;
+    justify-content: space-between;
+    font-size: 14px;
+    font-weight: 300;
 }
+.location-title {
+    margin-left: 2px;
+}
+
 @media only screen and (max-width: 1200px) {
     .sidebar-ad{
         margin-left: 6px;
