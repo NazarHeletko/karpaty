@@ -293,4 +293,10 @@
     .clear-search {
         width: 60px;
     }
+    .relax a {
+        padding: 8px 24px;
+    }
+    .relax {
+        margin-top: 6px;
+    }
 }
