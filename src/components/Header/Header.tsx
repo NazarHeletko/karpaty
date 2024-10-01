@@ -95,7 +95,7 @@ export default function Header() {
             >
               <ul>
                 <li>
-                  <Link href="/">Блог</Link>
+                  <Link href="/blog">Блог</Link>
                 </li>
                 <li>
                   <Link href="/">Контакти</Link>
