@@ -26,7 +26,7 @@
     flex-wrap: wrap;
 }
 .item {
-    background-color: #e6e6e6eb;
+    background-color: #0c0c00cf;
     height: 146px;
     width: 20%;
     display: flex;
@@ -39,6 +39,7 @@
     border: 1px solid rgba(0, 0, 0, 0);
     transition: border 0.3s ease-in-out;
     box-sizing: border-box;
+    border-radius: 14px;
 }
 .item:hover {
     border: 1px solid #0000001f;
@@ -53,6 +54,7 @@
     margin-left: 6px;
     font-size: 20px;
     font-weight: 300;
+    color: white;
 }
 .item a {
     background-color: gold;
@@ -89,5 +91,9 @@
 @media only screen and (max-width: 500px) {
     .item{
         width: 94%;
+    }
+    .item a {
+        padding: 10px 30px;
+        font-size: 18px;
     }
 }
