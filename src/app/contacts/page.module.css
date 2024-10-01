@@ -43,7 +43,7 @@
     border-radius: 14px;
 }
 .item:hover {
-    border: 1px solid #5ad393;
+    border: 1px solid #92929237;
 }
 .item-title {
     display: flex;
@@ -58,17 +58,17 @@
     color: rgb(18, 18, 18);
 }
 .item a {
-    background-color: gold;
+    background-color: #0c0c00cf;
     margin-top: 10px;
     padding: 8px 16px;
     border-radius: 4px;
-    color: black;
+    color: white;
     transition: all 0.2s ease-in-out;
     font-weight: 300;
 }
 .item a:hover{
-    background-color: #434343cf;
-    color: white;
+    background-color: gold;
+    color: rgb(0, 0, 0);
 }
 
 @media only screen and (max-width: 1200px) {
