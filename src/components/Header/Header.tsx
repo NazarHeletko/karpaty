@@ -95,7 +95,7 @@ export default function Header() {
             >
               <ul>
                 <li>
-                  <Link href="/blog">Блог</Link>
+                  <Link onClick={()=>setMobileMenuState(false)} href="/blog">Блог</Link>
                 </li>
                 <li>
                   <Link href="/">Контакти</Link>
