@@ -67,7 +67,7 @@
         height: 232px;
     }
     .description p {
-        height: 140px;
+        height: auto;
         text-align: center;
     }
     .description h3 {
