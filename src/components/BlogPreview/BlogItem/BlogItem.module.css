@@ -79,4 +79,11 @@
         width: 100%;
         text-align: center;
     }
+    .item-wrapper {
+        padding-bottom: 28px;
+    }
+    .description a {
+        padding: 10px 18px;
+        font-size: 18px;
+    }
 }
