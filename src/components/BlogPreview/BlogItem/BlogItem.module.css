@@ -36,6 +36,12 @@
     border-radius: 10px;
     display: inline-block;
     box-sizing: border-box;
+    transition: all 0.2s ease-in-out;
+}
+
+.description a:hover {
+    background-color: #0c0c00cf;
+    color: white;
 }
 
 @media only screen and (max-width: 1200px) {

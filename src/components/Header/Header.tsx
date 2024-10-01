@@ -98,7 +98,7 @@ export default function Header() {
                   <Link onClick={()=>setMobileMenuState(false)} href="/blog">Блог</Link>
                 </li>
                 <li>
-                  <Link href="/">Контакти</Link>
+                  <Link onClick={()=>setMobileMenuState(false)} href="/contacts">Контакти</Link>
                 </li>
                 <li>
                   <Link onClick={()=>setMobileMenuState(false)} href="/realty">Нерухомість</Link>
