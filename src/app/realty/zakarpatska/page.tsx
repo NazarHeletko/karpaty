@@ -25,21 +25,21 @@ type DataType = {
 export const revalidate = 0;
 
 export default async function Realty() {
-  // function shuffleArray(array: DataType[]) {
-  //   for (let i = array.length - 1; i > 0; i--) {
-  //     const j = Math.floor(Math.random() * (i + 1)); // random index from 0 to i
-  //     [array[i], array[j]] = [array[j], array[i]]; // swap elements
-  //   }
-  //   return array;
-  // }
+  function shuffleArray(array: DataType[]) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1)); // random index from 0 to i
+      [array[i], array[j]] = [array[j], array[i]]; // swap elements
+    }
+    return array;
+  }
  
-  // const randomizeRealtyArray = shuffleArray(realty);
+  const randomizeRealtyArray = shuffleArray(realty);
 
 
   return (
     <RealtyPage>
-      <FilterRealty building={""} oblast={""} raion={""} city={""}/>
-      <RealtyItems  />
+      <FilterRealty building={""} oblast={"/zakarpatska"} raion={""} city={""}/>
+      <RealtyItems realtyData={randomizeRealtyArray} />
     </RealtyPage>
   );
 }

@@ -2,336 +2,336 @@
   {
     "oblast": "/zakarpatska",
     "raion": "/rakhiv-raion",
-    "city": "Rakhiv",
+    "city": "/rakhiv",
     "route": "/rakhiv",
     "option": "Рахів"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/rakhiv-raion",
-    "city": "Yasynia",
+    "city": "/yasynia",
     "route": "/yasynia",
     "option": "Ясіня"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/rakhiv-raion",
-    "city": "Kvasyi",
+    "city": "/kvasyi",
     "route": "/kvasyi",
     "option": "Кваси"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/rakhiv-raion",
-    "city": "Bohdan",
+    "city": "/bohdan",
     "route": "/bohdan",
     "option": "Богдан"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/rakhiv-raion",
-    "city": "Lazeshchyna",
+    "city": "/lazeshchyna",
     "route": "/lazeshchyna",
     "option": "Лазещина"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/rakhiv-raion",
-    "city": "Vydrychka",
+    "city": "/vydrychka",
     "route": "/vydrychka",
     "option": "Видричка"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/rakhiv-raion",
-    "city": "Luhy",
+    "city": "/luhy",
     "route": "/luhy",
     "option": "Луги"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/rakhiv-raion",
-    "city": "Dilove",
+    "city": "/dilove",
     "route": "/dilove",
     "option": "Ділове"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/rakhiv-raion",
-    "city": "Vernhe Vodyane",
+    "city": "/verhne-vodyane",
     "route": "/verhne-vodyane",
     "option": "Верхнє Водяне"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/rakhiv-raion",
-    "city": "Kosivska Polyana",
+    "city": "/kosivska-polyana",
     "route": "/kosivska-polyana",
     "option": "Косівська Поляна"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/rakhiv-raion",
-    "city": "Velykyi Bychkov",
+    "city": "/velykyi-bychkov",
     "route": "/velykyi-bychkov",
     "option": "Великий Бичків"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Tiachiv",
+    "city": "/tiachiv",
     "route": "/tiachiv",
     "option": "Тячів"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Ust-Chorna",
+    "city": "/ust-chorna",
     "route": "/ust-chorna",
     "option": "Усть-Чорна"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Solotvyno",
+    "city": "/solotvyno",
     "route": "/solotvyno",
     "option": "Солотвино"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Tereblia",
+    "city": "/tereblia",
     "route": "/tereblia",
     "option": "Теребля"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Hrunyky",
+    "city": "/grunyky",
     "route": "/grunyky",
     "option": "Груники"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Bushytno",
+    "city": "/bushytno",
     "route": "/bushytno",
     "option": "Буштино"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Niemetska Mokra",
+    "city": "/niemetska-mokra",
     "route": "/niemetska-mokra",
     "option": "Німецька Мокра"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Krasna",
+    "city": "/krasna",
     "route": "/krasna",
     "option": "Красна"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Bedevlya",
+    "city": "/bedevlya",
     "route": "/bedevlya",
     "option": "Бедевля"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Dubove",
+    "city": "/dubove",
     "route": "/dubove",
     "option": "Дубове"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Tereshva",
+    "city": "/tereshva",
     "route": "/tereshva",
     "option": "Тересва"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Vylkhivtsi",
+    "city": "/vylkhivtsi",
     "route": "/vylkhivtsi",
     "option": "Вільхівці"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Neresnytsia",
+    "city": "/neresnytsia",
     "route": "/neresnytsia",
     "option": "Нересниця"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
-    "city": "Kalyny",
+    "city": "/kalyny",
     "route": "/kalyny",
     "option": "Калини"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Khust",
+    "city": "/khust",
     "route": "/khust",
     "option": "Хуст"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Kolochava",
+    "city": "/kolochava",
     "route": "/kolochava",
     "option": "Колочава"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Synevyrska Polyana",
+    "city": "/synevyrska-polyana",
     "route": "/synevyrska-polyana",
     "option": "Синевирська Поляна"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Iza",
+    "city": "/iza",
     "route": "/iza",
     "option": "Іза"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Vyshkovo",
+    "city": "/vyshkovo",
     "route": "/vyshkovo",
     "option": "Вишково"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Synevyr",
+    "city": "/synevyr",
     "route": "/synevyr",
     "option": "Синевир"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Kopashnevo",
+    "city": "/kopashnevo",
     "route": "/kopashnevo",
     "option": "Копашново"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Nyzhnye Selyshche",
+    "city": "/nyzhnye-selyshche",
     "route": "/nyzhnye-selyshche",
     "option": "Нижнє Селище"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Horinchovo",
+    "city": "/horinchovo",
     "route": "/horinchovo",
     "option": "Горінчово"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Shayan",
+    "city": "/shayan",
     "route": "/shayan",
     "option": "Шаян"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Velyatino",
+    "city": "/velyatyno",
     "route": "/velyatyno",
     "option": "Велятино"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Drahovo",
+    "city": "/drahovo",
     "route": "/drahovo",
     "option": "Драгово"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Kelechyn",
+    "city": "/kelechyn",
     "route": "/kelechyn",
     "option": "Келечин"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Zabryd",
+    "city": "/zabryd",
     "route": "/zabryd",
     "option": "Забрідь"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
-    "city": "Rokosovo",
+    "city": "/rokosovo",
     "route": "/rokosovo",
     "option": "Рокосово"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/mukachiv-raion",
-    "city": "Kosyno",
+    "city": "/kosyno",
     "route": "/kosyno",
     "option": "Косино"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/mukachiv-raion",
-    "city": "Poliana",
+    "city": "/poliana",
     "route": "/poliana",
     "option": "Поляна"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/mukachiv-raion",
-    "city": "Svalyava",
+    "city": "/svalyava",
     "route": "/svalyava",
     "option": "Свалява"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/mukachiv-raion",
-    "city": "Chynadiyovo",
+    "city": "/chynadiyovo",
     "route": "/chynadiyovo",
     "option": "Чинадійово"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/mukachiv-raion",
-    "city": "Zhdeniyevo",
+    "city": "/zhdeniyevo",
     "route": "/zhdeniyevo",
     "option": "Жденієво"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/mukachiv-raion",
-    "city": "Bobovyshche",
+    "city": "/bobovyshche",
     "route": "/bobovyshche",
     "option": "Бобовище"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/mukachiv-raion",
-    "city": "Synyak",
+    "city": "/synyak",
     "route": "/synyak",
     "option": "Синяк"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/mukachiv-raion",
-    "city": "Lisarnya",
+    "city": "/lisarnya",
     "route": "/lisarnya",
     "option": "Лісарня"
   },
@@ -339,154 +339,154 @@
   {
     "oblast": "/zakarpatska",
     "raion": "/mukachiv-raion",
-    "city": "Zavydivo",
+    "city": "/zavydivo",
     "route": "/zavydivo",
     "option": "Завидово"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/mukachiv-raion",
-    "city": "Bukovynka",
+    "city": "/bukovynka",
     "route": "/bukovynka",
     "option": "Буковинка"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/mukachiv-raion",
-    "city": "Pistrialovo",
+    "city": "/pistrialovo",
     "route": "/pistrialovo",
     "option": "Пістрялово"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/berehiv-raion",
-    "city": "Berehovo",
+    "city": "/berehovo",
     "route": "/berehovo",
     "option": "Берегово"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/berehiv-raion",
-    "city": "Koson",
+    "city": "/koson",
     "route": "/koson",
     "option": "Косонь"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/berehiv-raion",
-    "city": "Velyka Bakta",
+    "city": "/velyka-bakta",
     "route": "/velyka-bakta",
     "option": "Велика Бакта"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/berehiv-raion",
-    "city": "Bene",
+    "city": "/bene",
     "route": "/bene",
     "option": "Бене"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/berehiv-raion",
-    "city": "Hecha",
+    "city": "/hecha",
     "route": "/hecha",
     "option": "Геча"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/berehiv-raion",
-    "city": "Kidiosh",
+    "city": "/kidiosh",
     "route": "/kidiosh",
     "option": "Кідьош"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/berehiv-raion",
-    "city": "Yanoshi",
+    "city": "/yanoshi",
     "route": "/yanoshi",
     "option": "Яноші"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/berehiv-raion",
-    "city": "Astei",
+    "city": "/astei",
     "route": "/astei",
     "option": "Астей"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/uzhhorod-raion",
-    "city": "Uzhhorod",
+    "city": "/uzhhorod",
     "route": "/uzhhorod",
     "option": "Ужгород"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/uzhhorod-raion",
-    "city": "Lumshory",
+    "city": "/lumshory",
     "route": "/lumshory",
     "option": "Лумшори"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/uzhhorod-raion",
-    "city": "Nevytske",
+    "city": "/nevitske",
     "route": "/nevitske",
     "option": "Невицьке"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/uzhhorod-raion",
-    "city": "Antalovtsi",
+    "city": "/antalovtsi",
     "route": "/antalovtsi",
     "option": "Анталовці"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/uzhhorod-raion",
-    "city": "Storozhnytsia",
+    "city": "/storozhnytsia",
     "route": "/storozhnytsia",
     "option": "Сторожниця"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/uzhhorod-raion",
-    "city": "Serednie",
+    "city": "/serednie",
     "route": "/serednie",
     "option": "Середнє"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/uzhhorod-raion",
-    "city": "Solomonovo",
+    "city": "/solomonovo",
     "route": "/solomonovo",
     "option": "Соломоново"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/uzhhorod-raion",
-    "city": "Kamianytsia",
+    "city": "/kamianytsia",
     "route": "/kamianytsia",
     "option": "Кам'яниця"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/uzhhorod-raion",
-    "city": "Barvinok",
+    "city": "/barvinok",
     "route": "/barvinok",
     "option": "Барвінок"
   },
   {
     "oblast": "/zakarpatska",
     "raion": "/uzhhorod-raion",
-    "city": "Onokivtsi",
+    "city": "/onokivtsi",
     "route": "/onokivtsi",
     "option": "Оноківці"
   },
   {
     "oblast": "/lvivska",
     "raion": "/drohobych-raion",
-    "city": "Skhidnytsia",
+    "city": "/skhidnytsia",
     "route": "/skhidnytsia",
     "option": "Східниця"
   },
@@ -494,42 +494,42 @@
   {
     "oblast": "/lvivska",
     "raion": "/drohobych-raion",
-    "city": "Boryslav",
+    "city": "/boryslav",
     "route": "/boryslav",
     "option": "Борислав"
   },
   {
     "oblast": "/lvivska",
     "raion": "/drohobych-raion",
-    "city": "Modrychi",
+    "city": "/modrychi",
     "route": "/modrychi",
     "option": "Модричі"
   },
   {
     "oblast": "/lvivska",
     "raion": "/drohobych-raion",
-    "city": "Nahuievychi",
+    "city": "/nahuievychi",
     "route": "/nahuievychi",
     "option": "Нагуєвичі"
   },
   {
     "oblast": "/lvivska",
     "raion": "/drohobych-raion",
-    "city": "Truskavets",
+    "city": "/truskavets",
     "route": "/truskavets",
     "option": "Трускавець"
   },
   {
     "oblast": "/lvivska",
     "raion": "/drohobych-raion",
-    "city": "Opaka",
+    "city": "/opaka",
     "route": "/opaka",
     "option": "Опака"
   },
   {
     "oblast": "/lvivska",
     "raion": "/drohobych-raion",
-    "city": "Pidbuzh",
+    "city": "/pidbuzh",
     "route": "/pidbuzh",
     "option": "Підбуж"
   },
@@ -537,574 +537,574 @@
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Skole",
+    "city": "/skole",
     "route": "/skole",
     "option": "Сколе"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Slavske",
+    "city": "/slavske",
     "route": "/slavske",
     "option": "Славське"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Tysovets",
+    "city": "/tysovets",
     "route": "/tysovets",
     "option": "Тисовець"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Plavie",
+    "city": "/plavie",
     "route": "/plavie",
     "option": "Плав'я"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Urych",
+    "city": "/urych",
     "route": "/urych",
     "option": "Урич"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Koziova",
+    "city": "/koziova",
     "route": "/koziova",
     "option": "Козьова"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Hrebeniv",
+    "city": "/hrebeniv",
     "route": "/hrebeniv",
     "option": "Гребенів"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Korostiv",
+    "city": "/korostiv",
     "route": "/korostiv",
     "option": "Коростів"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Klymets",
+    "city": "/klymets",
     "route": "/klymets",
     "option": "Климець"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Volosianka (Slavske)",
-    "route": "/volosianka-slavske",
-    "option": "Волосянка (Славська)"
+    "city": "/volosianka",
+    "route": "/volosianka",
+    "option": "Волосянка"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Verkhnia Rozhanka",
+    "city": "/verkhnia-rozhanka",
     "route": "/verkhnia-rozhanka",
     "option": "Верхня Рожанка"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Tukhlya",
+    "city": "/tukhlya",
     "route": "/tukhlya",
     "option": "Тухля"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Pidhorodtsi",
+    "city": "/pidhorodtsi",
     "route": "/pidhorodtsi",
     "option": "Підгородці"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Nyzhnje Syniovydne",
+    "city": "/nyzhnje-syniovydne",
     "route": "/nyzhnje-syniovydne",
     "option": "Нижнє Синьовидне"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Rozhanka",
+    "city": "/rozhanka",
     "route": "/rozhanka",
     "option": "Рожанка"
   },
   {
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
-    "city": "Matkiv",
+    "city": "/matkiv",
     "route": "/matkiv",
     "option": "Матків"
   },
   {
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
-    "city": "Turka",
+    "city": "/turka",
     "route": "/turka",
     "option": "Турка"
   },
   {
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
-    "city": "Rozluch",
+    "city": "/rozluch",
     "route": "/rozluch",
     "option": "Розлуч"
   },
   {
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
-    "city": "Bitlia",
+    "city": "/bitlia",
     "route": "/bitlia",
     "option": "Бітля"
   },
   {
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
-    "city": "Isai",
+    "city": "/isai",
     "route": "/isai",
     "option": "Ісаї"
   },
   {
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
-    "city": "Limna",
+    "city": "/limna",
     "route": "/limna",
     "option": "Лімна"
   },
   {
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
-    "city": "Verkhnie Husne",
+    "city": "/verkhnie-husne",
     "route": "/verkhnie-husne",
     "option": "Верхнє Гусне"
   },
   {
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
-    "city": "Yavora",
+    "city": "/yavora",
     "route": "/yavora",
     "option": "Явора"
   },
   {
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
-    "city": "Komarnyky",
+    "city": "/komarnyky",
     "route": "/komarnyky",
     "option": "Комарники"
   },
   {
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
-    "city": "Boberka",
+    "city": "/boberka",
     "route": "/boberka",
     "option": "Боберка"
   },
   {
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
-    "city": "Sianky",
+    "city": "/sianky",
     "route": "/sianky",
     "option": "Сянки"
   },
   {
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
-    "city": "Bachyna",
+    "city": "/bachyna",
     "route": "/bachyna",
     "option": "Бачина"
   },
   {
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
-    "city": "Zhukotyn",
+    "city": "/zhukotyn",
     "route": "/zhukotyn",
     "option": "Жукотин"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/kosiv-raion",
-    "city": "Kosiv",
+    "city": "/kosiv",
     "route": "/kosiv",
     "option": "Косів"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/kosiv-raion",
-    "city": "Sheshory",
+    "city": "/sheshory",
     "route": "/sheshory",
     "option": "Шешори"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/kosiv-raion",
-    "city": "Kuty",
+    "city": "/kuty",
     "route": "/kuty",
     "option": "Кути"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/kosiv-raion",
-    "city": "Yabluniv",
+    "city": "/yabluniv",
     "route": "/yabluniv",
     "option": "Яблунів"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/kosiv-raion",
-    "city": "Pistyn",
+    "city": "/pistyn",
     "route": "/pistyn",
     "option": "Пістинь"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/kosiv-raion",
-    "city": "Kosmach",
+    "city": "/kosmach",
     "route": "/kosmach",
     "option": "Космач"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/kosiv-raion",
-    "city": "Rozhnyiv",
+    "city": "/rozhnyiv",
     "route": "/rozhnyiv",
     "option": "Рожнів"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/kosiv-raion",
-    "city": "Brustury",
+    "city": "/brustury",
     "route": "/brustury",
     "option": "Брустури"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/kosiv-raion",
-    "city": "Snidavka",
+    "city": "/snidavka",
     "route": "/snidavka",
     "option": "Снідавка"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
-    "city": "Nadvirna",
+    "city": "/nadvirna",
     "route": "/nadvirna",
     "option": "Надвірна"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
-    "city": "Vorokhta",
+    "city": "/vorokhta",
     "route": "/vorokhta",
     "option": "Ворохта"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
-    "city": "Yaremche",
+    "city": "/yaremche",
     "route": "/yaremche",
     "option": "Яремче"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
-    "city": "Mykulychyn",
+    "city": "/mykulychyn",
     "route": "/mykulychyn",
     "option": "Микуличин"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
-    "city": "Lanchyn",
+    "city": "/lanchyn",
     "route": "/lanchyn",
     "option": "Ланчин"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
-    "city": "Bistritsa",
+    "city": "/bistritsa",
     "route": "/bistritsa",
     "option": "Бистриця"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
-    "city": "Pniv",
+    "city": "/pniv",
     "route": "/pniv",
     "option": "Пнів"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
-    "city": "Tsutsyliv",
+    "city": "/tsutsyliv",
     "route": "/tsutsyliv",
     "option": "Цуцилів"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
-    "city": "Zelena",
+    "city": "/zelena",
     "route": "/zelena",
     "option": "Зелена"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
-    "city": "Hvizd",
+    "city": "/hvizd",
     "route": "/hvizd",
     "option": "Гвізд"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
-    "city": "Delyatyn",
+    "city": "/delyatyn",
     "route": "/delyatyn",
     "option": "Делятин"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
-    "city": "Bukovel",
+    "city": "/bukovel",
     "route": "/bukovel",
     "option": "Буковель"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Verkhovyna",
+    "city": "/verkhovyna",
     "route": "/verkhovyna",
     "option": "Верховина"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Kryvorivnya",
+    "city": "/kryvorivnya",
     "route": "/kryvorivnya",
     "option": "Криворівня"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Yavirnyk",
+    "city": "/yavirnyk",
     "route": "/yavirnyk",
     "option": "Явірник"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Burkut",
+    "city": "/burkut",
     "route": "/burkut",
     "option": "Буркут"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Zelene",
+    "city": "/zelene",
     "route": "/zelene",
     "option": "Зелене"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Krasnyk",
+    "city": "/krasnyk",
     "route": "/krasnyk",
     "option": "Красник"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Iltsi",
+    "city": "/iltsi",
     "route": "/iltsi",
     "option": "Ільці"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Kryvopillia",
+    "city": "/kryvopillia",
     "route": "/kryvopillia",
     "option": "Кривопілля"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Volova",
+    "city": "/volova",
     "route": "/volova",
     "option": "Волова"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Stayishche",
+    "city": "/stayishche",
     "route": "/stayishche",
     "option": "Стаїще"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Verkhniy Yaseniv",
+    "city": "/verkhniy-yaseniv",
     "route": "/verkhniy-yaseniv",
     "option": "Верхній Ясенів"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Berezhnytsya",
+    "city": "/berezhnytsya",
     "route": "/berezhnytsya",
     "option": "Бережниця"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Velykyy Khodak",
+    "city": "/velykyy-khodak",
     "route": "/velykyy-khodak",
     "option": "Великий Ходак"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Dzembronya",
+    "city": "/dzembronya",
     "route": "/dzembronya",
     "option": "Дземброня"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Krasnoyillya",
+    "city": "/krasnoyillya",
     "route": "/krasnoyillya",
     "option": "Красноїлля"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Usteriky",
+    "city": "/usteriky",
     "route": "/usteriky",
     "option": "Устеріки"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Zamahora",
+    "city": "/zamahora",
     "route": "/zamahora",
     "option": "Замагора"
   },
   {
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
-    "city": "Bukovets",
+    "city": "/bukovets",
     "route": "/bukovets",
     "option": "Буковець"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Vyzhnytsia",
+    "city": "/vyzhnytsia",
     "route": "/vyzhnytsia",
     "option": "Вижниця"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Migove",
+    "city": "/migove",
     "route": "/migove",
     "option": "Мигове"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Berehomet",
+    "city": "/berehomet",
     "route": "/berehomet",
     "option": "Берегомет"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Putyla",
+    "city": "/putyla",
     "route": "/putyla",
     "option": "Путила"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Selyatyn",
+    "city": "/selyatyn",
     "route": "/selyatyn",
     "option": "Селятин"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Ust-Putyla",
+    "city": "/ust-putyla",
     "route": "/ust-putyla",
     "option": "Усть-Путила"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Pidzakharychi",
+    "city": "/pidzakharychi",
     "route": "/pidzakharychi",
     "option": "Підзахаричі"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Vashkivtsi",
+    "city": "/vashkivtsi",
     "route": "/vashkivtsi",
     "option": "Вашківці"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Ispas",
+    "city": "/ispas",
     "route": "/ispas",
     "option": "Іспас"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Lopushna",
+    "city": "/lopushna",
     "route": "/lopushna",
     "option": "Лопушна"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Dolischny Shepit",
+    "city": "/dolischny-shepit",
     "route": "/dolischny-shepit",
     "option": "Долішній Шепіт"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Shepit",
+    "city": "/shepit",
     "route": "/shepit",
     "option": "Шепіт"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Roztoki",
+    "city": "/roztoki",
     "route": "/roztoki",
     "option": "Розтоки"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Verkhniy Yalovets",
+    "city": "/verkhnіy-yalovets",
     "route": "/verkhnіy-yalovets",
     "option": "Верхній Яловець"
   },
   {
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
-    "city": "Yablunitsa",
+    "city": "/yablunitsa",
     "route": "/yablunitsa",
     "option": "Яблуниця"
   }
