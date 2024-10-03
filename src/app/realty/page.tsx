@@ -2,7 +2,6 @@ import FilterRealty from "@/components/Page/RealtyPage/FilterRealty/FilterRealty
 import RealtyItems from "@/components/Page/RealtyPage/RealtyItems/RealtyItems";
 import RealtyPage from "@/components/Page/RealtyPage/RealtyPage";
 import { Metadata } from "next";
-import realty from "@/data/realty.json";
 
 export const metadata: Metadata = {
   title:
@@ -11,55 +10,54 @@ export const metadata: Metadata = {
     "Тут знайдете найкращі варіанти проживання у Карпатах: затишні будиночки, котеджі та готелі на будь-який смак. Комфортний відпочинок серед мальовничих Карпат. Відпочинок у Карпатах стане незабутнім.",
 };
 
-type DataType = {
-  id: number;
-  oblast: string;
-  raion: string;
-  city: string;
-  name: string;
-  price: string;
-  "people-count": number;
-  "title-image": string;
-};
-
 export const revalidate = 0;
 
 export default async function Realty() {
-  // function shuffleArray(array: DataType[]) {
-  //   for (let i = array.length - 1; i > 0; i--) {
-  //     const j = Math.floor(Math.random() * (i + 1)); // random index from 0 to i
-  //     [array[i], array[j]] = [array[j], array[i]]; // swap elements
-  //   }
-  //   return array;
-  // }
-
-  // const randomizeRealtyArray = shuffleArray(realty);
-
   return (
     <RealtyPage>
       <FilterRealty oblast={""} raion={""} city={""} building={""} />
       <RealtyItems
-        firstFilter={[
-          { title: "Житло у Верховині" },
-          { city: "/verkhovyna", type: "cottage" },
-        ]}
-        secondFilter={[
-          { title: "Все житло у Верховині" },
-          { city: "/verkhovyna" },
-        ]}
-        thirdFilter={[
-          { title: "Житло у Верховинському районі" },
-          { raion: "/verkhovyna-raion" },
-        ]}
-        forthFilter={[
-          { title: "Івано-Франківська область" },
-          { oblast: "/ivano-frankivska" },
-        ]}
-        fifthFilter={[
-          { title: "Все житло в карпатах" },
-          { place: "all" },
-        ]}
+        firstFilter={[]}
+        secondFilter={[]}
+        thirdFilter={[]}
+        forthFilter={[]}
+        fifthFilter={[{ title: "Житло в Карпатах" }, { place: "all" }]}
       />
+      <p
+        style={{
+          color: "#2e2e2e",
+          textAlign: "justify",
+          fontSize: "14px",
+          fontWeight: "300",
+          lineHeight: "21px",
+        }}
+      >
+        Житло у Карпатах: затишок серед гірських краєвидів Мрієте втекти від
+        міської метушні та зануритися в спокій природи? У Карпатах ви знайдете
+        ідеальне місце для відпочинку, де шум міста замінюється шепотом гірських
+        потоків, а замість сірості бетону – розкішні зелені ліси. Тут ви зможете
+        обрати житло на будь-який смак і бюджет, насолоджуючись красою
+        карпатських краєвидів. Карпати приваблюють своєю унікальною природою.
+        Гори, ліси та озера створюють неповторну атмосферу для відпочинку, де
+        свіже повітря і мальовничі пейзажі допоможуть вам повністю відновити
+        сили. Це ідеальне місце для тих, хто шукає єднання з природою та
+        можливість відчути гармонію. Якщо ви любите активний відпочинок, Карпати
+        пропонують безліч варіантів дозвілля. Взимку – катання на лижах або
+        сноуборді, а влітку – піші прогулянки, велопоходи чи риболовля. Тут
+        кожен знайде щось для себе, незалежно від пори року. Окрім цього,
+        місцева кухня – справжня знахідка для гурманів. Страви, приготовані з
+        місцевих продуктів, здивують своєю простотою та глибоким смаком. Не
+        забудьте спробувати традиційні карпатські страви, які доповнять ваш
+        відпочинок автентичними смаками цього регіону. Мешканці Карпат завжди
+        відкриті та радо приймають гостей. Вони не тільки поділяться з вами
+        місцевими традиціями, але й створять справжню домашню атмосферу під час
+        вашого перебування. Гостинність тут – це справжня частина культури, яка
+        додасть вашому відпочинку тепла та затишку. Вибираючи житло в Карпатах,
+        зверніть увагу на сезон, комфорт та розташування. Взимку найкраще
+        бронювати житло ближче до гірськолижних курортів, а влітку – поблизу
+        озер або річок. Обирайте варіанти з необхідними зручностями, щоб ваш
+        відпочинок був максимально комфортним.
+      </p>
     </RealtyPage>
   );
 }
