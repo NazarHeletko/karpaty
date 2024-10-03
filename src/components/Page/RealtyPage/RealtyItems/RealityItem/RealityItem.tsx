@@ -23,7 +23,7 @@ const RealityItem = ({ realtyItem }: any) => {
                 width={16}
                 alt="location"
               />
-              <span>{realtyItem.city}</span>
+              <span>{realtyItem.cityName}</span>
             </div>
             <div className={styles.persons}>
               <Image

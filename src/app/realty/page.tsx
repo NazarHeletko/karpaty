@@ -32,14 +32,34 @@ export default async function Realty() {
   //   }
   //   return array;
   // }
- 
-  // const randomizeRealtyArray = shuffleArray(realty);
 
+  // const randomizeRealtyArray = shuffleArray(realty);
 
   return (
     <RealtyPage>
-      <FilterRealty building={""} oblast={""} raion={""} city={""}/>
-      <RealtyItems  />
+      <FilterRealty oblast={""} raion={""} city={""} building={""} />
+      <RealtyItems
+        firstFilter={[
+          { title: "Житло у Верховині" },
+          { city: "/verkhovyna", type: "cottage" },
+        ]}
+        secondFilter={[
+          { title: "Все житло у Верховині" },
+          { city: "/verkhovyna" },
+        ]}
+        thirdFilter={[
+          { title: "Житло у Верховинському районі" },
+          { raion: "/verkhovyna-raion" },
+        ]}
+        forthFilter={[
+          { title: "Івано-Франківська область" },
+          { oblast: "/ivano-frankivska" },
+        ]}
+        fifthFilter={[
+          { title: "Все житло в карпатах" },
+          { place: "all" },
+        ]}
+      />
     </RealtyPage>
   );
 }
