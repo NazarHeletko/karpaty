@@ -2,45 +2,63 @@ import FilterRealty from "@/components/Page/RealtyPage/FilterRealty/FilterRealty
 import RealtyItems from "@/components/Page/RealtyPage/RealtyItems/RealtyItems";
 import RealtyPage from "@/components/Page/RealtyPage/RealtyPage";
 import { Metadata } from "next";
-import realty from "@/data/realty.json";
 
-// export const metadata: Metadata = {
-//   title:
-//     "Житло у Карпатах | будиночки, готелі, котеджі, відпочинкові комплекси| Мої Карпати",
-//   description:
-//     "Тут знайдете найкращі варіанти проживання у Карпатах: затишні будиночки, котеджі та готелі на будь-який смак. Комфортний відпочинок серед мальовничих Карпат. Відпочинок у Карпатах стане незабутнім.",
-// };
+export const metadata: Metadata = {
+  title:
+    "Житло у Закарпатській області | Нерухомість у Закарпатській області| Мої Карпати",
+  description:
+    "Житло у Закарпатській області: комфортні готелі, котеджі та садиби серед мальовничої природи. Обирайте найкращі варіанти для відпочинку та релаксу.",
+};
 
-// type DataType = {
-//   id: number;
-//   oblast: string;
-//   raion: string;
-//   city: string;
-//   name: string;
-//   price: string;
-//   "people-count": number;
-//   "title-image": string;
-// };
-
-// export const revalidate = 0;
+export const revalidate = 0;
 
 export default async function Realty() {
-//   function shuffleArray(array: DataType[]) {
-//     for (let i = array.length - 1; i > 0; i--) {
-//       const j = Math.floor(Math.random() * (i + 1)); // random index from 0 to i
-//       [array[i], array[j]] = [array[j], array[i]]; // swap elements
-//     }
-//     return array;
-//   }
- 
-//   const randomizeRealtyArray = shuffleArray(realty);
-
-
   return (
-    // <RealtyPage>
-    //   <FilterRealty building={""} oblast={"/zakarpatska"} raion={""} city={""}/>
-    //   <RealtyItems realtyData={randomizeRealtyArray} />
-    // </RealtyPage>
-    <p>cdx</p>
+    <RealtyPage>
+      <FilterRealty
+        oblast={"/zakarpatska"}
+        raion={""}
+        city={""}
+        building={""}
+      />
+      <RealtyItems
+        firstFilter={[
+          { title: "Житло в Закарпатській області" },
+          { oblast: "/zakarpatska" },
+        ]}
+        secondFilter={[]}
+        thirdFilter={[]}
+        forthFilter={[]}
+        fifthFilter={[{ title: "Все житло в Карпатах" }, { place: "all" }]}
+      />
+      <p
+        style={{
+          color: "#2e2e2e",
+          textAlign: "justify",
+          fontSize: "14px",
+          fontWeight: "300",
+          lineHeight: "21px",
+        }}
+      >
+        Орендувати житло для відпочинку в Закарпатській області варто з багатьох
+        причин. Цей регіон поєднує природні багатства, історичні пам'ятки та
+        унікальні культурні традиції, що робить його ідеальним місцем для
+        відпочинку. Зняти житло в Закарпатті — це можливість побувати біля таких
+        туристичних місць, як Мукачівський замок Паланок, велична середньовічна
+        споруда на вершині гори, звідки відкривається чудовий вид на околиці.
+        Замок Шенборн, оточений мальовничим парком, пропонує атмосферу спокою і
+        романтики. Варто відвідати Синевирське озеро, яке часто називають
+        "перлиною Карпат". Це одне з найвідоміших і найкрасивіших озер України,
+        оточене горами і густими лісами. Відпочиваючи поруч, можна
+        насолоджуватися прогулянками і навіть риболовлею. Іншим чудовим
+        варіантом для відпочинку є Лумшори, де туристів приваблюють чани з
+        гарячою водою, що дарують незабутні враження і релаксацію під відкритим
+        небом. Закарпатська область також славиться термальними джерелами,
+        зокрема в містечку Берегове. Теплі води тут сприяють оздоровленню та
+        релаксу. Оренда житла поблизу таких місць дозволяє отримати максимум
+        задоволення від перебування в регіоні, адже це можливість зануритися в
+        природу та насолодитися усіма перевагами відпочинку в Закарпатті.
+      </p>
+    </RealtyPage>
   );
 }

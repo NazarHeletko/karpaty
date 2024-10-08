@@ -258,5 +258,31 @@
     "people-count": 70,
     "title-image": "/realty/18.jpeg",
     "place": "all"
+  },
+  {
+    "id":21,
+    "oblast": "/lvivska",
+    "raion": "/sambir-raion",
+    "city": "/komarnyky",
+    "type": "house",
+    "cityName": "Комарники",
+    "name": "Будиночок в Комарниках",
+    "price": "2480",
+    "people-count": 7,
+    "title-image": "/realty/19.jpg",
+    "place": "all"
+  },
+  {
+    "id":22,
+    "oblast": "/lvivska",
+    "raion": "/stryi-raion",
+    "city": "/rozhanka",
+    "type": "base",
+    "cityName": "Рожанка",
+    "name": "База відпочинку Рожанка",
+    "price": "2880",
+    "people-count": 79,
+    "title-image": "/realty/20.jpg",
+    "place": "all"
   }
 ]

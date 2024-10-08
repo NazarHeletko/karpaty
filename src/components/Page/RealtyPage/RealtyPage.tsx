@@ -9,7 +9,6 @@ const  RealtyPage: React.FC<ContentPageProps> = ({ children }) => {
     return(
         <div className={styles.wrapper}>
             <div className={styles.content}>
-
                 {children}
             </div>
         </div>
