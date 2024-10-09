@@ -1,6 +1,6 @@
 [
   {
-    "id":1,
+    "id": 1,
     "oblast": "/zakarpatska",
     "raion": "/rakhiv-raion",
     "city": "/rakhiv",
@@ -13,7 +13,7 @@
     "place": "all"
   },
   {
-    "id":2,
+    "id": 2,
     "oblast": "/zakarpatska",
     "raion": "/mukachiv-raion",
     "city": "/bobovyshche",
@@ -26,7 +26,7 @@
     "place": "all"
   },
   {
-    "id":3,
+    "id": 3,
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
     "city": "/tiachiv",
@@ -39,7 +39,7 @@
     "place": "all"
   },
   {
-    "id":4,
+    "id": 4,
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
     "city": "/iza",
@@ -52,7 +52,7 @@
     "place": "all"
   },
   {
-    "id":5,
+    "id": 5,
     "oblast": "/zakarpatska",
     "raion": "berehiv-raion",
     "city": "/koson",
@@ -65,7 +65,7 @@
     "place": "all"
   },
   {
-    "id":6,
+    "id": 6,
     "oblast": "/zakarpatska",
     "raion": "/uzhhorod-raion",
     "city": "/nevitske",
@@ -78,7 +78,7 @@
     "place": "all"
   },
   {
-    "id":7,
+    "id": 7,
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
     "city": "/turka",
@@ -91,7 +91,7 @@
     "place": "all"
   },
   {
-    "id":8,
+    "id": 8,
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
     "city": "/skole",
@@ -104,7 +104,7 @@
     "place": "all"
   },
   {
-    "id":9,
+    "id": 9,
     "oblast": "/lvivska",
     "raion": "/drohobych-raion",
     "city": "/skhidnytsia",
@@ -117,7 +117,7 @@
     "place": "all"
   },
   {
-    "id":10,
+    "id": 10,
     "oblast": "/ivano-frankivska",
     "raion": "/kosiv-raion",
     "city": "/kosmach",
@@ -130,7 +130,7 @@
     "place": "all"
   },
   {
-    "id":11,
+    "id": 11,
     "oblast": "/ivano-frankivska",
     "raion": "/nadvirna-raion",
     "city": "/yaremche",
@@ -143,7 +143,7 @@
     "place": "all"
   },
   {
-    "id":12,
+    "id": 12,
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
     "city": "/verkhovyna",
@@ -156,7 +156,7 @@
     "place": "all"
   },
   {
-    "id":13,
+    "id": 13,
     "oblast": "/chernivetska",
     "raion": "/vyzhnytsia-raion",
     "city": "/vyzhnytsia",
@@ -169,7 +169,7 @@
     "place": "all"
   },
   {
-    "id":14,
+    "id": 14,
     "oblast": "/zakarpatska",
     "raion": "/rakhiv-raion",
     "city": "/yasynia",
@@ -182,7 +182,7 @@
     "place": "all"
   },
   {
-    "id":15,
+    "id": 15,
     "oblast": "/zakarpatska",
     "raion": "/tyachiv-raion",
     "city": "/dubove",
@@ -195,7 +195,7 @@
     "place": "all"
   },
   {
-    "id":16,
+    "id": 16,
     "oblast": "/zakarpatska",
     "raion": "/khust-raion",
     "city": "/shayan",
@@ -208,7 +208,7 @@
     "place": "all"
   },
   {
-    "id":17,
+    "id": 17,
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
     "city": "/verkhovyna",
@@ -221,7 +221,7 @@
     "place": "all"
   },
   {
-    "id":18,
+    "id": 18,
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
     "city": "/verkhovyna",
@@ -234,7 +234,7 @@
     "place": "all"
   },
   {
-    "id":19,
+    "id": 19,
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
     "city": "/verkhovyna",
@@ -247,7 +247,7 @@
     "place": "all"
   },
   {
-    "id":20,
+    "id": 20,
     "oblast": "/ivano-frankivska",
     "raion": "/verkhovyna-raion",
     "city": "/kryvopillia",
@@ -260,7 +260,7 @@
     "place": "all"
   },
   {
-    "id":21,
+    "id": 21,
     "oblast": "/lvivska",
     "raion": "/sambir-raion",
     "city": "/komarnyky",
@@ -273,7 +273,7 @@
     "place": "all"
   },
   {
-    "id":22,
+    "id": 22,
     "oblast": "/lvivska",
     "raion": "/stryi-raion",
     "city": "/rozhanka",
@@ -283,6 +283,58 @@
     "price": "2880",
     "people-count": 79,
     "title-image": "/realty/20.jpg",
+    "place": "all"
+  },
+  {
+    "id": 23,
+    "oblast": "/chernivetska",
+    "raion": "/vyzhnytsia-raion",
+    "city": "/yablunitsa",
+    "type": "house",
+    "cityName": "Яблуниця",
+    "name": "Будиночок Яблуниця",
+    "price": "3000",
+    "people-count": 10,
+    "title-image": "/realty/21.jpg",
+    "place": "all"
+  },
+  {
+    "id": 24,
+    "oblast": "/chernivetska",
+    "raion": "/vyzhnytsia-raion",
+    "city": "/yablunitsa",
+    "type": "cottage",
+    "cityName": "Яблуниця",
+    "name": "Котедж Яблуниця",
+    "price": "3700",
+    "people-count": 9,
+    "title-image": "/realty/22.jpg",
+    "place": "all"
+  },
+  {
+    "id": 25,
+    "oblast": "/chernivetska",
+    "raion": "/vyzhnytsia-raion",
+    "city": "/yablunitsa",
+    "type": "glamping",
+    "cityName": "Яблуниця",
+    "name": "Glamping Яблуниця",
+    "price": "3700",
+    "people-count": 9,
+    "title-image": "/realty/23.jpg",
+    "place": "all"
+  },
+  {
+    "id": 26,
+    "oblast": "/chernivetska",
+    "raion": "/vyzhnytsia-raion",
+    "city": "/yablunitsa",
+    "type": "base",
+    "cityName": "Яблуниця",
+    "name": "База Яблуниця",
+    "price": "3700",
+    "people-count": 9,
+    "title-image": "/realty/24.jpg",
     "place": "all"
   }
 ]
