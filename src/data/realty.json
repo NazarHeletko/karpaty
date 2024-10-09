@@ -336,5 +336,18 @@
     "people-count": 9,
     "title-image": "/realty/24.jpg",
     "place": "all"
+  },
+  {
+    "id": 27,
+    "oblast": "/zakarpatska",
+    "raion": "/berehiv-raion",
+    "city": "/berehovo",
+    "type": "hotel",
+    "cityName": "Берегово",
+    "name": "Готель Берегово",
+    "price": "3100",
+    "people-count": 97,
+    "title-image": "/realty/25.jpg",
+    "place": "all"
   }
 ]
