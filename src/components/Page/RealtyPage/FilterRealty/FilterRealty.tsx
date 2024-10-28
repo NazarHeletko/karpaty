@@ -17,10 +17,10 @@ const bildingType = [
   { option: "бази відпочинку", route: "/base" },
 ];
 
-const FilterRealty = ({ building, oblast, raion }: any) => {
+const FilterRealty = ({ building, oblast, raion, city }: any) => {
   const [oblastValue, setOblastValue] = useState(oblast);
   const [raionValue, setRaionValue] = useState(raion);
-  const [cityValue, setCityValue] = useState("");
+  const [cityValue, setCityValue] = useState(city);
   const [buildingValue, setBuildingValue] = useState(building);
   const [searchValue, setSearchValue] = useState("");
 

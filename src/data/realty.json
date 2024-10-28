@@ -609,5 +609,44 @@
     "people-count": 5,
     "title-image": "/realty/45.jpg",
     "place": "all"
+  },
+  {
+    "id": 47,
+    "oblast": "/ivano-frankivska",
+    "raion": "/kosiv-raion",
+    "city": "/kosiv",
+    "type": "hotel",
+    "cityName": "Косів",
+    "name": "Готель Косів",
+    "price": "1700",
+    "people-count": 58,
+    "title-image": "/realty/46.jpg",
+    "place": "all"
+  },
+  {
+    "id": 48,
+    "oblast": "/ivano-frankivska",
+    "raion": "/nadvirna-raion",
+    "city": "/vorokhta",
+    "type": "base",
+    "cityName": "Ворохта",
+    "name": "База Ворохта",
+    "price": "2000",
+    "people-count": 578,
+    "title-image": "/realty/47.jpg",
+    "place": "all"
+  },
+  {
+    "id": 49,
+    "oblast": "/zakarpatska",
+    "raion": "/rakhiv-raion",
+    "city": "/lazeshchyna",
+    "type": "hotel",
+    "cityName": "Лазещина",
+    "name": "готель Лазещина",
+    "price": "1500",
+    "people-count": 60,
+    "title-image": "/realty/48.jpg",
+    "place": "all"
   }
 ]
