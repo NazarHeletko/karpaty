@@ -648,5 +648,31 @@
     "people-count": 60,
     "title-image": "/realty/48.jpg",
     "place": "all"
+  },
+  {
+    "id": 50,
+    "oblast": "/zakarpatska",
+    "raion": "/tyachiv-raion",
+    "city": "/solotvyno",
+    "type": "glamping",
+    "cityName": "Солотвино",
+    "name": "глемпінг Солотвино",
+    "price": "2000",
+    "people-count": 100,
+    "title-image": "/realty/49.jpg",
+    "place": "all"
+  },
+  {
+    "id": 51,
+    "oblast": "/zakarpatska",
+    "raion": "/uzhhorod-raion",
+    "city": "/uzhhorod",
+    "type": "cottage",
+    "cityName": "Ужгород",
+    "name": "котедж Ужгород",
+    "price": "1230",
+    "people-count": 16,
+    "title-image": "/realty/50.jpg",
+    "place": "all"
   }
 ]
