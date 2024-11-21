@@ -674,5 +674,18 @@
     "people-count": 16,
     "title-image": "/realty/50.jpg",
     "place": "all"
+  },
+  {
+    "id": 51,
+    "oblast": "/ivano-frankivska",
+    "raion": "/verkhovyna-raion",
+    "city": "/bukovets",
+    "type": "cottage",
+    "cityName": "Буковець",
+    "name": "котедж Буковець",
+    "price": "1000",
+    "people-count": 20,
+    "title-image": "/realty/51.jpg",
+    "place": "all"
   }
 ]
