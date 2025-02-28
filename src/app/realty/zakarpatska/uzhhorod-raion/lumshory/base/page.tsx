@@ -4,32 +4,32 @@ import RealtyPage from "@/components/Page/RealtyPage/RealtyPage";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Бази відпочинку у Астеї | Мої Карпати",
+  title: "Бази відпочинку в Лумшорах | Мої Карпати",
 };
 
-export const revalidate = 0; 
+export const revalidate = 0;
 
 export default async function Realty() {
   return (
     <RealtyPage>
       <FilterRealty
         oblast={"/zakarpatska"}
-        raion={"/berehiv-raion"}
-        city={"/astei"} 
+        raion={"/uzhhorod-raion"}
+        city={"/lumshory"}
         building={"/base"}
       />
       <RealtyItems
         firstFilter={[
-          { title: "Бази відпочинку у Астеї" },
-          { city: "/astei", type: "base" },
+          { title: "Бази відпочинку в Лумшорах" },
+          { city: "/lumshory", type: "base" },
         ]}
-        secondFilter={[{ title: "Все житло у Астеї" }, { city: "/astei" }]}
+        secondFilter={[{ title: "Все житло в Лумшорах" }, { city: "/lumshory" }]}
         thirdFilter={[
-          { title: "Житло у Берегівському районі" },
-          { raion: "/berehiv-raion" },
+          { title: "Житло в Ужгородському районі" },
+          { raion: "/uzhhorod-raion" },
         ]}
         forthFilter={[
-          { title: "Житло в Закарпатській області" },
+          { title: "Житло у Закарпатській області" },
           { oblast: "/zakarpatska" },
         ]}
         fifthFilter={[{ title: "Все житло в Карпатах" }, { place: "all" }]}
